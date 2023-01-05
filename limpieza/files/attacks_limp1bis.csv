@@ -1,0 +1,1655 @@
+,year,type,country,age,species_,month,gender,dead
+0,2018.0,Boating,usa,57,White shark,Jun,F,N
+1,2018.0,Unprovoked,brazil,18,Tiger shark,Jun,M,Y
+2,2018.0,Unprovoked,usa,15,"Bull shark, 6'",May,M,N
+3,2018.0,Provoked,australia,32,Grey reef shark,May,M,N
+4,2018.0,Invalid,england,21,Invalid incident,May,M,N
+5,2018.0,Unprovoked,costa rica,30,Tiger shark,Apr,M,N
+6,2018.0,Unprovoked,australia,60,3 m shark,Apr,M,N
+7,2018.0,Unprovoked,maldives,32,Tiger shark,Apr,M,N
+8,2018.0,Unprovoked,south africa,33,"White shark, 2.5 m",Apr,M,N
+9,2018.0,Unprovoked,south africa,19,White shark,Apr,M,N
+10,2018.0,Unprovoked,usa,25,"Tiger shark, 12'",Mar,M,N
+11,2018.0,Unprovoked,australia,10,Wobbegong shark,Mar,M,N
+12,2018.0,Unprovoked,australia,69,3.5 m shark,Mar,M,N
+13,2018.0,Unprovoked,australia,18,1.8 m shark,Mar,M,N
+14,2018.0,Unprovoked,australia,55,"Juvenile white shark,  2.7 to 3.2 m",Feb,F,N
+15,2018.0,Unprovoked,australia,35,"Bull shark, 2 m",Feb,M,N
+16,2018.0,Unprovoked,brazil,20,small shark,Jan,M,N
+17,2017.0,Unprovoked,usa,54,Tiger shark,Dec,F,N
+18,2017.0,Unprovoked,usa,25,"White shark, 4.6 m",Nov,M,N
+19,2017.0,Unprovoked,australia,25,2 m shark,Nov,M,N
+20,2017.0,Unprovoked,cuba,22,Tiger shark,Nov,M,Y
+21,2017.0,Unprovoked,australia,31,"Wobbegong shark, 1 m",Oct,M,N
+22,2017.0,Unprovoked,australia,15,"White shark, 4.5 m",Oct,F,N
+23,2017.0,Unprovoked,usa,54,"Tiger shark, 8 to 10 feet",Oct,M,N
+24,2017.0,Unprovoked,usa,40,8' shark,Oct,F,N
+25,2017.0,Invalid,usa,33,Questionable,Sep,M,
+26,2017.0,Unprovoked,usa,18,5' to 6' shark,Sep,M,N
+27,2017.0,Unprovoked,australia,35,"White shark, 3 to 3.5m ",Sep,M,N
+28,2017.0,Unprovoked,australia,37,"White shark, 3 m",Aug,M,N
+29,2017.0,Invalid,spain,11,Shark involvement questionable,Aug,F,
+30,2017.0,Unprovoked,usa,69,"White shark, 5' to 7'",Aug,M,N
+31,2017.0,Unprovoked,usa,13,Possibly a juvenile blacktip shark,Aug,M,N
+32,2017.0,Provoked,usa,34,4' shark,Aug,M,N
+33,2017.0,Invalid,usa,10,A small shark,Jul,M,
+34,2017.0,Boating,usa,40,"White shark, 11' to 13'",Jul,M,N
+35,2017.0,Unprovoked,usa,50,"White shark, 8' to 10'",Jul,M,N
+36,2017.0,Unprovoked,usa,46,"Bull shark, 4' to 5'",Jul,M,N
+37,2017.0,Unprovoked,south africa,13,"White shark, 2.5 m",Jul,F,N
+38,2017.0,Unprovoked,australia,48,"White shark, 4 m",Jun,M,N
+39,2017.0,Unprovoked,bahamas,32,Tiger shark,Jun,F,N
+40,2017.0,Invalid,usa,18,Shark involvement highly doubtful,May,F,
+41,2017.0,Unprovoked,australia,17,White shark,Apr,F,Y
+42,2017.0,Unprovoked,usa,28,"Tiger shark, 12'",Apr,M,N
+43,2017.0,Unprovoked,usa,17,"Bull shark, 5' to 7'",Apr,F,N
+44,2017.0,Unprovoked,australia,55,"Bull shark, 4 m",Jan,M,N
+45,2017.0,Unprovoked,indonesia,48,"Bull shark, 1 m",Jan,M,N
+46,2017.0,Invalid,australia,20,Shark involvement not confirmed,Jan,M,
+47,2016.0,Unprovoked,south africa,55,"White shark, 4 m",Dec,M,N
+48,2016.0,Invalid,usa,19,Shark involvement not confirmed,Dec,M,
+49,2016.0,Provoked,australia,20,"Wobbegong shark, 2m",Dec,M,N
+50,2016.0,Unprovoked,australia,65,White shark,Dec,M,N
+51,2016.0,Provoked,australia,73,"Broadnose sevengill shark, 1.5 m",Nov,M,N
+52,2016.0,Unprovoked,usa,58,Tiger shark,Nov,F,N
+53,2016.0,Unprovoked,usa,36, 6' to 8' shark,Oct,M,N
+54,2016.0,Unprovoked,australia,17,"White shark, 3.5 m",Sep,M,N
+55,2016.0,Unprovoked,usa,60s,3' to 4' shark,Sep,M,N
+56,2016.0,Unprovoked,usa,51,"Tiger shark, 10'",Sep,F,N
+57,2016.0,Unprovoked,usa,25,"Bull shark, 6'",Aug,M,N
+58,2016.0,Unprovoked,usa,21,"Tiger shark, 10' ",Aug,M,N
+59,2016.0,Unprovoked,spain,40,Blue shark,Jul,M,N
+60,2016.0,Provoked,australia,31,"reef shark, 1m",Jul,M,N
+61,2016.0,Unprovoked,usa,61,"White shark, 10' to 12'",Jul,M,N
+62,2016.0,Provoked,usa,59,dogfish shark,Jul,M,N
+63,2016.0,Provoked,australia,34,Tawny nurse shark,Jul,M,N
+64,2016.0,Unprovoked,usa,42,3' to 5' shark,Jun,M,N
+65,2016.0,Unprovoked,usa,6,3' to 4' shark,Jun,F,N
+66,2016.0,Unprovoked,usa,19,3' shark,Jun,M,N
+67,2016.0,Invalid,usa,27,Said to involve an 8' shark but more likely damage caused by debris,Jun,M,
+68,2016.0,Unprovoked,australia,60,3+ m shark,Jun,F,Y
+69,2016.0,Unprovoked,egypt,23,Mako shark,Jun,M,N
+70,2016.0,Unprovoked,australia,29,White shark,May,M,Y
+71,2016.0,Unprovoked,usa,13,5' shark,May,M,N
+72,2016.0,Unprovoked,usa,22,"Bull shark, 4' to 5'",May,F,N
+73,2016.0,Unprovoked,usa,48,"Blacktip shark, 4'",May,M,N
+74,2016.0,Provoked,usa,23,"Nurse shark, 2'",May,F,N
+75,2016.0,Provoked,new zealand,39,"Mako shark, 1.5 m [5'] ",May,M,N
+76,2016.0,Unprovoked,indonesia,24,"Bull shark, 6'",Apr,M,N
+77,2016.0,Unprovoked,australia,12,Wobbegong shark,Apr,M,N
+78,2016.0,Provoked,french polynesia,22,"Grey reef shark, 2 m",Apr,M,
+79,2016.0,Provoked,french polynesia,26,"Grey reef shark, 2 m",Apr,M,N
+80,2016.0,Unprovoked,new caledonia,69,"Tiger shark, 2.5 m",Apr,F,Y
+81,2016.0,Unprovoked,usa,48,"Tiger shark, 14'",Jan,M,N
+82,2016.0,Unprovoked,australia,11,Blacktip shark,Jan,M,N
+83,2016.0,Unprovoked,australia,31,3 m shark,Jan,M,N
+84,2015.0,Unprovoked,usa,71,9' shark,Dec,M,N
+85,2015.0,Unprovoked,australia,43,"Bronze whaler shark, 6'",Dec,M,N
+86,2015.0,Unprovoked,ecuador,55,Galapagos shark,Nov,M,N
+87,2015.0,Unprovoked,australia,20,"Bull shark, 2.8 to 3.1 m",Nov,M,N
+88,2015.0,Invalid,usa,9,Shark involvement not confirmed,Nov,F,
+89,2015.0,Unprovoked,usa,28,3' to 5' shark,Nov,F,N
+90,2015.0,Unprovoked,south africa,42,"White shark, 3 to 3.5m ",Oct,M,N
+91,2015.0,Unprovoked,usa,21,5' shark,Oct,M,N
+92,2015.0,Unprovoked,usa,21,"Spinner shark, 5'",Oct,M,N
+93,2015.0,Invalid,usa,32,No shark involvement,Oct,M,
+94,2015.0,Unprovoked,usa,44,"Tiger shark, 7'",Oct,M,N
+95,2015.0,Unprovoked,usa,25,"Tiger shark, 13' ",Oct,M,N
+96,2015.0,Unprovoked,usa,13,4' to 5' shark,Oct,M,N
+97,2015.0,Unprovoked,usa,14,"Blacktip shark, 4' to 5'",Oct,M,N
+98,2015.0,Unprovoked,usa,22,"Blacktip shark, 5' to 6'",Sep,M,N
+99,2015.0,Unprovoked,usa,14,juvenile shark,Sep,M,N
+100,2015.0,Unprovoked,usa,27,"Tiger shark, 13'",Sep,M,N
+101,2015.0,Unprovoked,usa,12,4' shark,Sep,M,N
+102,2015.0,Unprovoked,australia,42,6' shark,Sep,M,N
+103,2015.0,Unprovoked,usa,50,"White shark, 11' to 12'",Sep,F,N
+104,2015.0,Provoked,usa,29,Hammerhead shark.,Sep,M,N
+105,2015.0,Unprovoked,australia,62,"White shark, 2.5 m",Sep,M,N
+106,2015.0,Unprovoked,thailand,37,small shark,Sep,F,N
+107,2015.0,Unprovoked,usa,54,"White shark, 11' to 12'",Aug,F,N
+108,2015.0,Unprovoked,usa,21,"White shark, 10' to 12' ",Aug,M,N
+109,2015.0,Unprovoked,usa,15,4' shark,Aug,M,N
+110,2015.0,Unprovoked,usa,10,3' shark,Aug,F,N
+111,2015.0,Boating,usa,22,"White shark, 13'",Aug,M,N
+112,2015.0,Invalid,spain,10,Shark involvement not confirmed,Aug,M,
+113,2015.0,Provoked,usa,57,Hammerhead shark. 6' to 7',Aug,M,N
+114,2015.0,Unprovoked,australia,52,White shark,Jul,M,N
+115,2015.0,Unprovoked,usa,25,"Blacktip or spinner shark, 4'",Jul,M,N
+116,2015.0,Invalid,usa,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",Jul,F,
+117,2015.0,Unprovoked,australia,46,"White shark, 3.9 to 4.2 m",Jul,M,Y
+118,2015.0,Unprovoked,usa,38,"White shark, 7'",Jul,M,N
+120,2015.0,Unprovoked,australia,32,White shark,Jul,M,N
+121,2015.0,Unprovoked,usa,68,6' to 7' shark,Jul,M,N
+122,2015.0,Unprovoked,usa,12,4' to 5' shark,Jun,M,N
+123,2015.0,Unprovoked,usa,18,Bull shark,Jun,M,N
+124,2015.0,Unprovoked,south africa,19,White shark,Jun,M,N
+125,2015.0,Unprovoked,south africa,23,"White shark, 2m to 3 m",Jun,M,N
+126,2015.0,Unprovoked,usa,43,4' shark,Jun,M,N
+127,2015.0,Unprovoked,usa,6,Sandtiger shark,Jun,M,N
+128,2015.0,Invalid,australia,37,White shark,Jun,F,N
+129,2015.0,Unprovoked,usa,16,Bull shark,Jun,M,N
+130,2015.0,Unprovoked,usa,12,Bull shark,Jun,F,N
+131,2015.0,Unprovoked,usa,13,4' shark,Jun,F,N
+132,2015.0,Unprovoked,usa,11,"Bull shark, 5'",Jun,M,N
+133,2015.0,Unprovoked,reunion,47,"Bull shark, 2.5 m",Jun,M,N
+134,2015.0,Unprovoked,french polynesia,19,1m to 1.2 m shark,May,M,N
+135,2015.0,Unprovoked,usa,18,5' shark,May2015,M,N
+136,2015.0,Unprovoked,south africa,29,"White shark, 3.5 m",May,M,N
+137,2015.0,Unprovoked,usa,63,3- to 4-foot shark,Apr,M,N
+138,2015.0,Unprovoked,australia,26,"White shark, 6 m",Apr,M,N
+139,2015.0,Unprovoked,australia,71,"White shark, 3 m",Jun,M,N
+140,2015.0,Unprovoked,reunion,13,Bull shark,Apr,M,Y
+141,2015.0,Unprovoked,usa,70,Bull shark,Apr,M,N
+142,2015.0,Invalid,brazil,23,No shark involvement,Mar,M,
+143,2015.0,Unprovoked,usa,58,"Tiger shark, 8 to 12 feet",Mar,M,N
+144,2015.0,Unprovoked,french polynesia,9,Blacktip shark,Mar,M,N
+145,2015.0,Unprovoked,reunion,22,"Tiger shark, 3.5 m",Feb,F,Y
+146,2015.0,Unprovoked,australia,41,3.5 to 4 m shark,Feb,M,Y
+147,2015.0,Unprovoked,australia,35,2 m to  3 m shark,Feb,M,N
+148,2015.0,Boating,australia,57,"Bull shark, 1.3 m",Jan,M,N
+149,2015.0,Provoked,usa,20,4' shark,Jan,M,N
+150,2015.0,Unprovoked,bahamas,34,White shark or oceanic whitetip shark,Jan,F,N
+151,2015.0,Unprovoked,south africa,15,"Raggedtooth shark, 1.3 m",Jan,M,N
+152,2014.0,Unprovoked,australia,17,"White shark, 4 to 5 m",Dec,M,Y
+153,2014.0,Unprovoked,usa,50,"White shark, 8' to 10'",Dec,M,N
+154,2014.0,Provoked,australia,40s,1.5 m shark,Dec,M,N
+155,2014.0,Unprovoked,australia,17,Tiger shark,Dec,M,Y
+156,2014.0,Unprovoked,usa,44,2' shark,Nov,M,N
+157,2014.0,Unprovoked,usa,53,1.5 m shark,Nov,M,N
+158,2014.0,Unprovoked,usa,34,"Tiger shark, 12'",Oct,F,N
+159,2014.0,Unprovoked,australia,13,1 m shark,Oct,F,N
+160,2014.0,Unprovoked,usa,29,Blacktip shark,Oct,M,N
+161,2014.0,Unprovoked,usa,15,Blacktip shark,Oct,M,N
+162,2014.0,Unprovoked,usa,28,8' to 10' shark,Oct,M,N
+163,2014.0,Unprovoked,australia,23,"2 white shark: 13' & 9""8""",Oct,M,N
+164,2014.0,Unprovoked,australia,50,7' shark,Sep,M,Y
+165,2014.0,Unprovoked,usa,43,Bull shark,Sep,M,N
+166,2014.0,Boating,usa,20s,"White shark, 12' to 14'",Sep,F,N
+167,2014.0,Provoked,usa,52,3' to 4' shark,Sep,M,N
+168,2014.0,Unprovoked,usa,13,Spinner shark,Aug,F,N
+169,2014.0,Unprovoked,usa,7," Bull shark, 5'",Aug,M,N
+170,2014.0,Unprovoked,usa,10,4' tp 5' shark,Aug,M,N
+171,2014.0,Unprovoked,south africa,20,White shark,Aug,M,N
+172,2014.0,Unprovoked,usa,61,6' to 8' shark,Jul,M,N
+173,2014.0,Unprovoked,usa,39,4' shark,Jul,M,N
+174,2014.0,Invalid,bahamas,63,Shark involvement not confirmed,Jul,M,
+175,2014.0,Unprovoked,usa,19,4' to 5' shark,Jul,M,N
+176,2014.0,Unprovoked,usa,16," Sandbar shark, 3' to 4'",Jun,M,N
+177,2014.0,Unprovoked,australia,39,"Bronze whaler shark, 1.5m",Jun,M,N
+178,2014.0,Unprovoked,usa,22,Bull shark,Jun,F,N
+179,2014.0,Unprovoked,australia,35," white shark, 15' ",May,M,N
+180,2014.0,Unprovoked,usa,40,4' to 5' shark,May,F,N
+181,2014.0,Unprovoked,usa,23,3' shark,May,M,N
+182,2014.0,Unprovoked,australia,63,3 m to 4 m white shark,Apr,F,Y
+183,2014.0,Invalid,australia,38,Shark involvement prior to death not confirmed,Mar,M,
+184,2014.0,Unprovoked,south africa,66,2 m shark,Mar,M,Y
+185,2014.0,Unprovoked,french polynesia,21,Blacktip reef shark ,Feb,M,N
+186,2014.0,Unprovoked,new zealand,28,7-gill shark?,Feb,M,N
+187,2013.0,Unprovoked,new caledonia,37,Reported to involve a bull shark,Dec,M,N
+188,2013.0,Unprovoked,south africa,19,"White shark, 3m ",Dec,M,N
+189,2013.0,Unprovoked,usa,29,"Tiger shark, 10' to 12'",Dec,M,N
+190,2013.0,Unprovoked,usa,30,4' to 6' shark,Dec,M,N
+191,2013.0,Unprovoked,australia,26," Wobbegong shark, 1.6 to 1.8m ",Dec,M,N
+192,2013.0,Unprovoked,australia,19,"Tiger shark, 3m ",Nov,M,Y
+193,2013.0,Unprovoked,australia,35,Thought to involve a white shark,Nov,M,Y
+194,2013.0,Unprovoked,usa,25,"White shark, 10 '",Nov,M,N
+195,2013.0,Unprovoked,usa,46,Tiger shark,Oct,M,N
+196,2013.0,Unprovoked,australia,60,"Blacktip reef shark, 1m",Oct,F,N
+197,2013.0,Unprovoked,reunion,24,Thought to involve a bull shark,Oct,M,N
+198,2013.0,Unprovoked,australia,41,Wobbegong shark,Oct,M,N
+199,2013.0,Unprovoked,usa,45,"Whitetip reef shark, 4' to 6'",Oct,M,N
+200,2013.0,Unprovoked,usa,25,Tiger shark,Oct,M,N
+201,2013.0,Unprovoked,usa,6,Nurse shark?,Oct,M,N
+202,2013.0,Unprovoked,south africa,74,White shark,Oct,M,Y
+203,2013.0,Unprovoked,australia,55,White shark,Oct,M,N
+204,2013.0,Unprovoked,usa,45,"White shark, 8' to 10'",Oct,M,N
+205,2013.0,Unprovoked,usa,21,Bull shark,Sep,M,N
+206,2013.0,Unprovoked,usa,13,3' shark,Sep,F,N
+207,2013.0,Provoked,usa,43,3' shark,Sep,M,N
+208,2013.0,Unprovoked,usa,25,3' shark,Sep,M,N
+209,2013.0,Unprovoked,usa,9,4' shark,Sep,M,N
+210,2013.0,Unprovoked,usa,20,Tiger shark?,Aug,F,Y
+211,2013.0,Unprovoked,usa,10,"Bull shark, 8'",Aug,M,N
+212,2013.0,Unprovoked,usa,17,"Bull shark, 6' to 8'",Aug,M,N
+213,2013.0,Unprovoked,bahamas,40,6' shark,Jul,M,N
+214,2013.0,Unprovoked,usa,18,"Tiger shark, 8' to 10' ",Jul,M,N
+215,2013.0,Unprovoked,bahamas,64,Nurse shark,Jul,M,N
+216,2013.0,Unprovoked,usa,14,4' to 5' shark,Jun,M,N
+217,2013.0,Unprovoked,usa,28,"Tiger shark, 14'",Jun,M,N
+218,2013.0,Unprovoked,usa,10,4' to 5' shark,Reported,F,N
+219,2013.0,Unprovoked,ecuador,29,Galapagos shark,May,M,N
+220,2013.0,Unprovoked,reunion,36,Bull shark,May,M,Y
+221,2013.0,Unprovoked,usa,16,a small shark,May,M,N
+222,2013.0,Unprovoked,mexico,34,Tiger shark,Apr,F,N
+223,2013.0,Unprovoked,australia,51,"Grey nurse shark, 3m",Apr,M,N
+224,2013.0,Unprovoked,usa,9,3' shark,Apr,M,N
+225,2013.0,Unprovoked,usa,21,Bull shark,Apr,M,N
+226,2013.0,Unprovoked,french polynesia,53,Possibly a blacktip reef shark,Apr,M,N
+227,2013.0,Unprovoked,usa,58,4' shark,Apr,M,N
+228,2013.0,Provoked,south africa,30,"Raggedtooth shark, 1.5 m",Mar,M,N
+229,2013.0,Unprovoked,jamaica,68,"Tiger shark, 4.8 m",Mar,M,Y
+230,2013.0,Unprovoked,australia,28,"Bronze whaler shark, 2.5m",Mar,M,N
+231,2013.0,Unprovoked,new zealand,46,"White shark, 4m",Feb,M,Y
+232,2013.0,Unprovoked,usa,16,"Blacktip shark, 4' to 5'",Feb,M,N
+233,2013.0,Unprovoked,french polynesia,48,Lemon shark,Feb,M,N
+234,2013.0,Unprovoked,usa,43,"Tiger shark, 15'",Jan,M,N
+235,2012.0,Unprovoked,australia,23,2.5 m shark,Dec,M,N
+236,2012.0,Unprovoked,australia,29,"Bull shark, 2m ",Dec,M,N
+237,2012.0,Unprovoked,australia,32,"Tiger shark, 6'",Dec,M,N
+238,2012.0,Unprovoked,usa,60,10' shark,Dec,M,N
+239,2012.0,Unprovoked,australia,31,Sandtiger shark,Dec,M,N
+240,2012.0,Unprovoked,usa,61,"Tiger shark, 10'",Nov,M,N
+241,2012.0,Unprovoked,mexico,32,2.5 m shark,Nov,M,Y
+242,2012.0,Unprovoked,usa,14,2' to 3' shark,Nov,M,N
+243,2012.0,Unprovoked,usa,30,"Tiger shark, 15'",Nov,M,N
+244,2012.0,Unprovoked,usa,43,"Tiger shark, 8'",Nov,M,N
+245,2012.0,Unprovoked,usa,25,White shark,Oct,M,N
+246,2012.0,Unprovoked,usa,51,"Tiger shark, 10' to 12' ",Oct,F,N
+247,2012.0,Unprovoked,usa,39,"White shark, 15' to 16' ",Oct,M,Y
+248,2012.0,Unprovoked,usa,55,6' to 8' shark,Oct,M,N
+249,2012.0,Unprovoked,australia,11,2m shark,Oct,M,N
+250,2012.0,Unprovoked,usa,21,5' shark,Sep,M,N
+251,2012.0,Unprovoked,usa,22,4' shark,Sep,M,N
+252,2012.0,Unprovoked,usa,8,3.5' to 4' shark,Sep,F,N
+253,2012.0,Unprovoked,usa,56,3.5' to 4' shark,Sep,F,N
+254,2012.0,Unprovoked,usa,56,"Lemon shark, 4' to 5' ",Aug,M,N
+255,2012.0,Unprovoked,australia,48,White shark or bronze whaler,Jul,M,N
+256,2012.0,Unprovoked,usa,50,Thought to involve a white shark,Jul,M,N
+257,2012.0,Unprovoked,australia,24,"White shark, 5m",Jul,M,Y
+258,2012.0,Boating,usa,52,14' to 18'shark,Jul,M,N
+259,2012.0,Unprovoked,south africa,29,15' shark,Jul,M,N
+260,2012.0,Unprovoked,usa,6,possibly a bull shark,Jun,M,N
+261,2012.0,Unprovoked,usa,16,a small reef shark,Jun,F,N
+262,2012.0,Unprovoked,australia,62,3 m shark,Jun,M,N
+263,2012.0,Provoked,usa,23,Nurse shark,Jun,M,N
+264,2012.0,Unprovoked,usa,18,small blacktip shark?,Jun,F,N
+265,2012.0,Unprovoked,usa,16,Blacktip shark ,Jun,M,N
+266,2012.0,Unprovoked,australia,42,1.5 m shark,Jun,M,N
+267,2012.0,Provoked,italy,57,"Blue shark, 2.5m",Jun,M,
+268,2012.0,Unprovoked,australia,30,"White shark, 2 m",Jun,M,N
+269,2012.0,Unprovoked,usa,33,"18"" to 24"" shark",May,F,N
+270,2012.0,Unprovoked,mexico,46,"Bull shark, 3m",May,M,N
+271,2012.0,Unprovoked,usa,22,4' to 5' shark,May,M,N
+272,2012.0,Boating,usa,30,White shark,May,M,N
+273,2012.0,Unprovoked,usa,15,White shark,May,F,N
+274,2012.0,Unprovoked,usa,28,5' shark,Apr,M,N
+275,2012.0,Unprovoked,south africa,20,"White shark, 4 m to 5m ",Apr,M,Y
+276,2012.0,Unprovoked,usa,28,"Tiger shark, 10'  ",Apr,M,N
+277,2012.0,Unprovoked,australia,33,"White shark, 4m ",Mar,M,Y
+278,2012.0,Unprovoked,australia,20,Possibly a bull shark,Mar,M,N
+279,2012.0,Unprovoked,usa,61,Possibly a 5' to 6' bull shark,Mar,M,N
+280,2012.0,Unprovoked,usa,15,4' to 5' shark,Mar,F,N
+281,2012.0,Unprovoked,usa,17,4' to 5' shark,Mar,M,N
+282,2012.0,Provoked,australia,34,"Tawny nurse shark, 40cm",Mar,F,N
+283,2012.0,Unprovoked,usa,19,4' shark,Mar,M,N
+284,2012.0,Unprovoked,australia,26,"Tiger shark, 3m",Jan,M,N
+285,2012.0,Unprovoked,australia,44,"White shark, 2.7 m",Jan,M,N
+286,2012.0,Unprovoked,south africa,25,Thought to involve a bull shark,Jan,M,Y
+287,2012.0,Unprovoked,australia,28,2 m shark,Jan,M,N
+288,2012.0,Unprovoked,australia,34,Allegedly a 4 m tiger shark,Jan,M,N
+289,2011.0,Unprovoked,australia,51,"White shark, 2.5m",Dec,M,N
+290,2011.0,Unprovoked,australia,10,Wobbegong shark?,Nov,M,N
+291,2011.0,Unprovoked,australia,32,"White shark, 10'",Oct,M,Y
+292,2011.0,Unprovoked,australia,50,"Port Jackson shark, 1m",Oct,M,N
+293,2011.0,Invalid,usa,27,No shark involvement,Sep,M,
+294,2011.0,Unprovoked,south africa,43,White shark,Sep,M,N
+295,2011.0,Unprovoked,usa,21,"Bull shark, 6'",Sep,M,N
+296,2011.0,Unprovoked,usa,25,4' to 6' shark,Sep,M,N
+297,2011.0,Unprovoked,papua new guinea,30,"Tiger shark, 2m",Sep,M,N
+298,2011.0,Unprovoked,australia,21,White shark,Sep,M,Y
+299,2011.0,Unprovoked,usa,19,"6' shark, possibly a blactip or spinner shark",Sep,M,N
+300,2011.0,Unprovoked,usa,19,6' shark,Aug,M,N
+301,2011.0,Invalid,australia,48,Shark involvement prior to death not confirmed,Aug,M,
+302,2011.0,Unprovoked,south africa,49,"White shark, >6'",Aug,M,Y
+303,2011.0,Unprovoked,usa,20s,Possibly a 5' to 6' sandtiger shark,Aug,F,N
+304,2011.0,Unprovoked,russia,25,4 m shark,Aug,M,N
+305,2011.0,Unprovoked,french polynesia,32,Grey reef shark ,Aug,M,N
+306,2011.0,Unprovoked,seychelles,30,"Bull shark, 6'",Aug,M,Y
+307,2011.0,Unprovoked,south africa,29,"White shark, 3m to 4m",Jul,M,N
+308,2011.0,Unprovoked,south africa,22,"Bull shark, 3m female",Jun,M,N
+309,2011.0,Unprovoked,usa,10,"Bull shark, 6'",Jun,F,N
+310,2011.0,Unprovoked,usa,28,"Blacktip shark, 4'",Jun,M,N
+311,2011.0,Unprovoked,usa,19,3' to 4' shark,Jun,M,N
+312,2011.0,Unprovoked,south africa,28,Zambesi shark,May,M,Y
+313,2011.0,Unprovoked,new caledonia,15," Tiger shark, 2.8m",May,M,Y
+314,2011.0,Unprovoked,australia,17,"reef shark, 1.5m",Apr,M,N
+315,2011.0,Unprovoked,usa,49,1' to 2' shark,Apr,M,N
+316,2011.0,Unprovoked,new zealand,41,possibly a bronze whaler shark,Apr,M,N
+317,2011.0,Unprovoked,australia,48,"Bull shark, 2.5m",Mar,M,N
+318,2011.0,Unprovoked,australia,24,3 m to 4 m shark,Mar,F,N
+319,2011.0,Provoked,australia,36,"Bull shark, 2m",Reported,M,N
+320,2011.0,Unprovoked,new caledonia,21,1.5 m shark,Feb,M,N
+321,2011.0,Unprovoked,australia,49,White shark x 2,Feb,M,Y
+322,2011.0,Unprovoked,mexico,38,6' shark,Jan,F,N
+323,2011.0,Unprovoked,bahamas,55,Caribbean reef shark,Jan,M,N
+324,2011.0,Invalid,australia,7,Shark involvement not confirmed,Jan,F,
+325,2010.0,Unprovoked,usa,16,6' shark,Dec,M,N
+326,2010.0,Unprovoked,egypt,70,"Oceanic whitetip shark, 2.5m ",Dec,F,Y
+327,2010.0,Unprovoked,egypt,54,Mako shark ,Dec,M,N
+328,2010.0,Unprovoked,egypt,46,Mako shark,Dec,M,N
+329,2010.0,Unprovoked,egypt,70,"Oceanic whitetip shark, 2.5m, female",Nov,F,N
+330,2010.0,Unprovoked,egypt,48,"Oceanic whitetip shark, 2.5m, female",Nov,F,N
+331,2010.0,Unprovoked,australia,20,White shark,Oct,F,N
+332,2010.0,Unprovoked,usa,30,"Porbeagle shark, 8' ",Oct,M,N
+333,2010.0,Unprovoked,usa,19,"White shark, 14' to 18' ",Oct,M,Y
+334,2010.0,Unprovoked,australia,22,"Bull shark, 1.4m ",Oct,M,N
+335,2010.0,Unprovoked,usa,29,White shark,Sep,M,N
+336,2010.0,Unprovoked,australia,15,2m shark,Sep,M,N
+337,2010.0,Unprovoked,australia,31,White shark,Aug,M,Y
+338,2010.0,Unprovoked,usa,37,3' to 4' shark,Aug,F,N
+339,2010.0,Unprovoked,usa,10,Possibly a small blacktip shark,Jul,M,N
+340,2010.0,Unprovoked,usa,13,"Sandtiger shark, 4' to 5'",Jul,F,N
+341,2010.0,Provoked,spain,9,Angel shark,Jul,M,N
+342,2010.0,Provoked,usa,20,"Blue shark, 7'",Jul,M,N
+343,2010.0,Unprovoked,usa,19,4' shark,Jul,M,N
+344,2010.0,Unprovoked,usa,48,8' shark,Jul,M,N
+345,2010.0,Unprovoked,vietnam,17,1 m shark,Jun,M,N
+346,2010.0,Unprovoked,usa,18,4' shark,Jun,F,N
+347,2010.0,Provoked,usa,49,"Lemon shark, 4'",May,M,N
+348,2010.0,Unprovoked,vietnam,58,20 to 30kg shark,May,F,N
+349,2010.0,Unprovoked,vietnam,60,20 to 30kg shark,May,F,N
+350,2010.0,Unprovoked,usa,10,4' shark,May,F,N
+351,2010.0,Provoked,usa,29,"Lemon shark, 6'",Apr,M,N
+352,2010.0,Unprovoked,usa,68,14' shark,Apr,M,N
+353,2010.0,Unprovoked,south africa,35,2 m shark,Apr,M,N
+354,2010.0,Unprovoked,egypt,24,"Oceanic whitetip shark, 6'",Apr,M,N
+355,2010.0,Unprovoked,reunion,34,1.5 m shark,Mar,M,N
+356,2010.0,Unprovoked,australia,60,2 m shark,Feb,F,N
+357,2010.0,Unprovoked,australia,46,"Wobbegong shark, 1.6m",Feb,M,N
+358,2010.0,Unprovoked,australia,18,"White shark, 2.5m",Feb,M,N
+359,2010.0,Invalid,guam,31,Invalid,Feb,M,
+360,2010.0,Provoked,new zealand,14,1.5 m shark,Feb,F,N
+361,2010.0,Unprovoked,south africa,37,White shark,Jan,M,Y
+362,2009.0,Unprovoked,mozambique,27,"Zambesi shark, 2m ",Dec,M,N
+363,2009.0,Unprovoked,australia,18,"Bull shark, 3m",Dec,M,N
+364,2009.0,Provoked,usa,58,"Sandtiger shark, 8'",Dec,M,N
+365,2009.0,Invalid,usa,49,Shark involvement not confirmed,Nov,M,
+366,2009.0,Unprovoked,usa,10,6' shark,Nov,M,N
+367,2009.0,Unprovoked,usa,31,Thresher shark,Nov,M,N
+368,2009.0,Unprovoked,usa,18,4' shark,Nov,M,N
+369,2009.0,Unprovoked,australia,25,2 m shark,Nov,M,N
+370,2009.0,Boating,australia,27,"White shark, 4m",Oct,M,N
+371,2009.0,Unprovoked,usa,54,6' to 8' shark,Oct,M,N
+372,2009.0,Provoked,scotland,23,Angel shark,Oct,M,N
+373,2009.0,Provoked,united kingdom,39,Spurdog,Oct,M,N
+374,2009.0,Invalid,usa,60,Shark involvement prior to death not confirmed,Sep,M,Y
+375,2009.0,Unprovoked,south africa,25,White shark,Aug,M,Y
+376,2009.0,Unprovoked,usa,22,"White shark, 5' to 6' juvenile ",Aug,F,N
+377,2009.0,Unprovoked,usa,56,Bull shark?,Aug,M,N
+378,2009.0,Provoked,usa,43,"Nurse shark, 6'",Jul,F,N
+379,2009.0,Unprovoked,australia,52,"Thought to involve a Bronze whale shark, 2m",Jun,M,N
+380,2009.0,Invalid,usa,14,"Shark involvement probable, but not confirmed",Jun,M,
+381,2009.0,Unprovoked,egypt,50,"Oceanic whitetip shark, 2.5 to 3m",Jun,F,Y
+382,2009.0,Provoked,taiwan,46,80 kg shark,May,M,N
+383,2009.0,Unprovoked,usa,31,blacktip or spinner shark,May,M,N
+384,2009.0,Unprovoked,usa,49,blacktip or spinner shark,May,M,N
+385,2009.0,Unprovoked,usa,55,blacktip or spinner shark,May,M,N
+386,2009.0,Provoked,guam,27,"Blacktip shark, 4'",May,M,N
+387,2009.0,Unprovoked,usa,31,2' to 3' shark,Apr,M,N
+388,2009.0,Unprovoked,australia,40,2' to 3' shark,Apr,M,N
+389,2009.0,Invalid,south africa,24,Shark involvement not confirmed,Apr,M,
+390,2009.0,Unprovoked,australia,17,Bronze whaler shark?,Mar,M,N
+391,2009.0,Unprovoked,usa,17,3' to 4' shark,Mar,F,N
+392,2009.0,Unprovoked,usa,61,Thought to involve a cookie cutter shark,Mar,M,N
+393,2009.0,Provoked,south africa,40,"Blue shark, 1m",Mar,M,N
+394,2009.0,Unprovoked,australia,15,2.6 m shark,Mar,M,N
+395,2009.0,Unprovoked,australia,33,"White shark, 2.5m ",Feb,M,N
+396,2009.0,Unprovoked,australia,31,"Bull shark, 2.7 m ",Feb,M,N
+397,2009.0,Unprovoked,australia,41,"White shark, 12' ",Feb,M,N
+398,2009.0,Unprovoked,cuba,15,Bull shark,Jan,M,N
+399,2009.0,Unprovoked,south africa,25,Tiger shark,Jan,M,Y
+400,2009.0,Unprovoked,australia,24,"Dusky shark, 2m",Jan,M,N
+401,2009.0,Unprovoked,australia,13,"White shark, 5m",Jan,F,N
+402,2009.0,Unprovoked,australia,31,"White shark, 3.5m",Jan,M,N
+403,2009.0,Unprovoked,new zealand,49,Broadnose sevengill shark,Jan,M,N
+404,2008.0,Boating,australia,29,"White shark, 4m to 5m ",Dec,M,N
+405,2008.0,Unprovoked,australia,51,4 to 5m white shark,Dec,M,Y
+406,2008.0,Provoked,south africa,15,"Raggedtooth shark, 2m",Dec,M,N
+407,2008.0,Provoked,australia,34,"Grey nurse shark, 3m",Oct,M,N
+408,2008.0,Unprovoked,croatia,43,5 m white shark,Oct,M,N
+409,2008.0,Unprovoked,usa,40,+3' shark,Sep,M,N
+410,2008.0,Provoked,australia,43,Bronze whaler shark,Sep,M,N
+411,2008.0,Unprovoked,usa,40,Tiger shark,Sep,M,N
+412,2008.0,Unprovoked,australia,51,3 m shark,Sep,M,N
+413,2008.0,Unprovoked,usa,52,4' shark,Sep,M,N
+414,2008.0,Invalid,usa,27,Shark involvement not confirmed,Aug,M,
+415,2008.0,Unprovoked,usa,26,6' shark,Aug,M,N
+416,2008.0,Invalid,usa,20,Shark involvement not confirmed,Aug,F,
+417,2008.0,Unprovoked,usa,38,8' bull shark or Caribbean reef shark,Aug,F,N
+418,2008.0,Unprovoked,australia,31,8' white shark or 7-gill shark,Jul,M,N
+419,2008.0,Unprovoked,usa,8,3' to 4' shark,Jul,F,N
+420,2008.0,Unprovoked,usa,16,4' shark,Jul,M,N
+421,2008.0,Invalid,usa,53,Shark involvement prior to death not confirmed,Jun,M,
+422,2008.0,Unprovoked,south africa,46,"White shark, 2m",Jun,M,N
+423,2008.0,Unprovoked,usa,37,4.5 to 5' shark,Jun,M,N
+424,2008.0,Boating,usa,40,"White shark, 15'",Jun,F,N
+425,2008.0,Unprovoked,usa,15,5' shark,Jun,F,N
+426,2008.0,Unprovoked,brazil,14,Bull shark,Jun,M,N
+427,2008.0,Unprovoked,mexico,49,3 m shark,May,M,N
+428,2008.0,Unprovoked,australia,37,"White shark, 4m",May,M,N
+429,2008.0,Unprovoked,new caledonia,40,2 small bull sharks,May,M,N
+430,2008.0,Unprovoked,mexico,24,Tiger shark,Apr,M,Y
+431,2008.0,Unprovoked,usa,18,4' shark,Apr,M,N
+432,2008.0,Unprovoked,new caledonia,32,"Bull shark, 1.8m",Apr,M,N
+433,2008.0,Unprovoked,usa,66,"White shark, 12' to 15'",Apr,M,Y
+434,2008.0,Invalid,mexico,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",Apr,M,
+435,2008.0,Invalid,australia,19,Shark involvement not confirmed; thought to be a barracuda bite,Apr,M,
+436,2008.0,Unprovoked,usa,30,1.5' to 2' shark,Apr,M,N
+437,2008.0,Unprovoked,australia,16,Bull shark,Apr,M,Y
+438,2008.0,Unprovoked,usa,52,4' to 5' shark,Mar,M,N
+439,2008.0,Unprovoked,usa,13,2.5' shark,Mar,M,N
+440,2008.0,Unprovoked,usa,8,Shark involvement not confirmed,Mar,M,N
+441,2008.0,Unprovoked,usa,27,White shark,Mar,M,N
+442,2008.0,Unprovoked,bahamas,49,"A bull shark, according to some of the divers on the boat",Feb,M,Y
+443,2008.0,Provoked,australia,20,"Mako shark, 90kg",Jan,M,N
+444,2007.0,Unprovoked,australia,31,2 m shark,Dec,M,N
+445,2007.0,Invalid,australia,34,Not a shark attack; it was a hoax,Dec,M,
+446,2007.0,Unprovoked,usa,52,Tiger shark,Dec,M,N
+447,2007.0,Unprovoked,south africa,14,1.5 to 2 m shark,Nov,M,N
+448,2007.0,Unprovoked,usa,21,4' to 5' shark,Nov,M,N
+449,2007.0,Unprovoked,usa,42,5' shark,Nov,M,N
+450,2007.0,Unprovoked,south africa,37,"White shark, 3m to 4m",Nov,M,N
+451,2007.0,Unprovoked,usa,32,Tiger shark,Oct,M,N
+452,2007.0,Unprovoked,australia,52,"White shark, 2.5m ",Oct,F,N
+453,2007.0,Unprovoked,australia,31,Bronze whaler shark,Oct,M,N
+454,2007.0,Unprovoked,usa,22,3' to 4' shark,Oct,M,N
+455,2007.0,Unprovoked,usa,16,"Blacktip shark, 5'",Oct,M,N
+456,2007.0,Unprovoked,new caledonia,23,Tiger shark,Sep,F,Y
+457,2007.0,Unprovoked,bahamas,48,Caribbean reef shark,Sep,F,N
+458,2007.0,Unprovoked,egypt,18 or 20,Oceanic whitetip sharks were in the vicinity,Sep,F,N
+459,2007.0,Unprovoked,usa,23,3' shark,Sep,M,N
+460,2007.0,Unprovoked,usa,Teen,9.5' shark?,Sep,F,N
+461,2007.0,Unprovoked,usa,14,"Nurse shark, 2' to 3' ",Sep,M,N
+462,2007.0,Unprovoked,usa,12,"18"" to 24"" shark",Sep,F,N
+463,2007.0,Unprovoked,usa,58,Possibly a spinner shark,Sep,M,N
+464,2007.0,Unprovoked,usa,15,"Tiger shark, 10' to 12' ",Aug,M,N
+465,2007.0,Unprovoked,usa,24,"White shark, 12'",Aug,M,N
+466,2007.0,Unprovoked,usa,54,3' shark,Aug,M,N
+467,2007.0,Unprovoked,usa,27,3' shark,Aug,M,N
+468,2007.0,Unprovoked,usa,16,4' to 5' shark,Aug,M,N
+469,2007.0,Unprovoked,usa,20,Possibly a 6' bull shark,Aug,M,N
+470,2007.0,Unprovoked,usa,15, ,Aug,F,N
+471,2007.0,Unprovoked,usa,19,Possibly a 10' bull shark,Aug,F,N
+472,2007.0,Unprovoked,usa,36, ,Jul,M,N
+473,2007.0,Unprovoked,australia,15,"Bronze whaler shark, 1.5 m ",Jul,M,N
+474,2007.0,Unprovoked,usa,14,2' to 3' shark,Jul,M,N
+475,2007.0,Invalid,usa,43,Shark involvement not confirmed,Jul,F,
+476,2007.0,Unprovoked,usa,30,5' shark,Jul,F,N
+477,2007.0,Unprovoked,bahamas,48,"Bull shark, 5' ",Jul,F,N
+478,2007.0,Unprovoked,usa,20,4' shark,Jun,M,N
+479,2007.0,Invalid,usa,9,Shark involvement not confirmed,Jun,F,
+480,2007.0,Provoked,usa,40,A 10-year-old 94-pound pregnant blacktip reef shark,May,F,N
+481,2007.0,Provoked,england,38,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length",Reported,M,N
+482,2007.0,Unprovoked,australia,38,2.5 m shark,May,F,N
+483,2007.0,Unprovoked,australia,19,10' shark,May,M,N
+484,2007.0,Unprovoked,usa,21,4' to 5' shark,May,F,N
+485,2007.0,Invalid,australia,45,Shark involvement prior to death was not confirmed,May,M,
+486,2007.0,Unprovoked,usa,63,"Tiger shark, 14' ",May,F,N
+487,2007.0,Unprovoked,usa,68,6' to 8' shark,May,M,N
+488,2007.0,Unprovoked,australia,13,"""a small shark""",Apr,F,N
+489,2007.0,Unprovoked,usa,12,blacktip or spinner shark,Apr,M,N
+490,2007.0,Unprovoked,usa,24,3' to 4' shark,Apr,M,N
+491,2007.0,Unprovoked,new caledonia,26,Tiger shark,Apr,M,N
+492,2007.0,Unprovoked,usa,27,3' shark,Mar,M,N
+493,2007.0,Unprovoked,usa,11,4' to 5' shark,Mar,M,N
+494,2007.0,Unprovoked,australia,42,1.5 m shark,Mar,F,N
+495,2007.0,Unprovoked,australia,59,2 to 2.5 m shark,Mar,F,N
+496,2007.0,Unprovoked,new caledonia,30,Tiger shark,Jan,M,N
+497,2007.0,Unprovoked,australia,41,"White shark, 3m",Jan,M,N
+498,2007.0,Unprovoked,south africa,24,Tiger shark,Jan,M,Y
+499,2007.0,Invalid,usa,54,"24"" to 30"" shark",Jan,M,
+500,2007.0,Unprovoked,usa,24,"6' to 8' shark, possibly a tiger shark",Jan,M,N
+501,2006.0,Unprovoked,australia,25,2.5 to 3 m shark,Dec,M,N
+502,2006.0,Unprovoked,new zealand,10,2 to 3 m shark,Dec,M,N
+503,2006.0,Unprovoked,usa,43,"White shark, 12' to 15' ",Dec,M,N
+504,2006.0,Provoked,south africa,25,"Raggedtooth shark, 150-kg",Dec,M,N
+505,2006.0,Unprovoked,australia,15,"White shark, 5m ",Dec,M,N
+506,2006.0,Unprovoked,usa,29,2 m to 3 m shark,Nov,M,N
+507,2006.0,Unprovoked,usa,22,"White shark, 16' ",Oct,M,N
+508,2006.0,Unprovoked,usa,18,3' to 3.5' shark,Oct,M,N
+509,2006.0,Unprovoked,usa,55,Spinner shark,Sep,M,N
+510,2006.0,Invalid,australia,44,No shark involvement,Sep,M,
+511,2006.0,Unprovoked,usa,33,3' shark,Sep,M,N
+512,2006.0,Unprovoked,south africa,24,White shark,Aug,M,N
+513,2006.0,Unprovoked,usa,41,White shark?,Jul,M,N
+514,2006.0,Unprovoked,south africa,19,"White shark, 3m to 4m",Jul,M,N
+515,2006.0,Unprovoked,usa,14, ,Jul,M,N
+516,2006.0,Unprovoked,usa,49,"Angel shark, 1.2m ",Jul,M,N
+517,2006.0,Unprovoked,usa,14,5' to 6' spinner or bull shark,Jul,F,N
+518,2006.0,Unprovoked,usa,22,Possibly a 1' to 3' blacktip or spinner shark,Jun,F,N
+519,2006.0,Unprovoked,usa,24,2' to 3' shark,Jun,M,N
+520,2006.0,Unprovoked,usa,7,3' to 4' shark,Jun,F,N
+521,2006.0,Unprovoked,australia,40,14' white shark,Jun,M,N
+522,2006.0,Unprovoked,usa,26,"Tiger shark, 8' to 12'",May,M,N
+523,2006.0,Provoked,usa,15,"Grey reef shark, 5' to 8' ",May,M,N
+524,2006.0,Unprovoked,usa,30s,"Tiger shark, 10' to 12'",May,F,N
+525,2006.0,Provoked,australia,46,"Wobbegong shark, 2 m ",May,M,N
+526,2006.0,Provoked,usa,35,"Bull shark, 4' to bull shark",Apr,M,N
+527,2006.0,Unprovoked,australia,15,"Bronze whaler shark, a  juvenile ",Apr,M,N
+528,2006.0,Unprovoked,south africa,15,"Raggedtooth shark, 2.5 m to 3 m ",Apr,M,N
+529,2006.0,Unprovoked,brazil,35,Tiger shark,Apr,M,N
+530,2006.0,Unprovoked,usa,28,"Tiger shark, 10'  ",Mar,F,N
+531,2006.0,Unprovoked,fiji,21,"Tiger shark, 5' ",Mar,M,N
+532,2006.0,Unprovoked,australia,15,"Bronze whaler shark, 2 m",Mar,M,N
+533,2006.0,Unprovoked,usa,15,5' to 7' shark,Feb,F,N
+534,2006.0,Invalid,usa,45,Invalid,Feb,M,
+535,2006.0,Unprovoked,south africa,15,Raggedtooth shark,Feb,M,N
+536,2006.0,Unprovoked,tonga,24,Tiger shark,Feb,F,Y
+537,2006.0,Boating,usa,57,12' to 18' shark,Feb,M,N
+538,2006.0,Unprovoked,australia,52,3.5 m white shark,Jan,M,N
+539,2006.0,Unprovoked,australia,21,Bull shark,Jan,F,Y
+540,2006.0,Unprovoked,usa,21,4' shark,Jan,M,N
+541,2005.0,Unprovoked,usa,30,White shark,Dec,M,N
+542,2005.0,Unprovoked,usa,29,Tiger shark,Dec,M,N
+543,2005.0,Unprovoked,australia,44,Whitetip reef shark,Dec,M,N
+544,2005.0,Unprovoked,usa,23,4' shark,Nov,M,N
+545,2005.0,Unprovoked,australia,18,1.8 m shark,Nov,M,N
+546,2005.0,Unprovoked,usa,30s,4' shark,Nov,M,N
+547,2005.0,Provoked,south africa,32,"Raggedtooth shark, 2.5m ",Nov,M,N
+548,2005.0,Unprovoked,usa,18,6' shark,Nov,M,N
+549,2005.0,Unprovoked,usa,26,12' to 14' white shark,Nov,M,N
+550,2005.0,Unprovoked,st. maartin,55,2' shark,Oct,M,N
+551,2005.0,Unprovoked,south africa,20,3 m shark,Oct,M,N
+552,2005.0,Unprovoked,usa,36,White shark,Oct,M,N
+553,2005.0,Unprovoked,usa,20,18' white shark,Oct,F,N
+554,2005.0,Unprovoked,usa,22,"Tiger shark, less than 10'",Oct,M,N
+555,2005.0,Unprovoked,grand cayman,57,Caribbean reef sharks,Oct,F,N
+556,2005.0,Unprovoked,south africa,52,White shark,Oct,M,N
+557,2005.0,Unprovoked,australia,26,14' to 16' white shark,Sep,M,N
+558,2005.0,Unprovoked,australia,44,Bronze whaler shark,Sep,M,N
+559,2005.0,Unprovoked,usa,68,3' to 4' shark,Sep,F,N
+560,2005.0,Unprovoked,usa,18,Bull shark,Sep,F,N
+561,2005.0,Unprovoked,australia,40,4 m [13'] white shark,Sep,M,N
+562,2005.0,Unprovoked,australia,23,White shark,Aug,M,Y
+563,2005.0,Unprovoked,usa,37,juvenile white shark,Aug,M,N
+564,2005.0,Invalid,usa,17,Shark involvement not confirmed,Aug,M,
+565,2005.0,Unprovoked,usa,8,Possibly a sandbar shark or small blacktip shark,Aug,M,N
+566,2005.0,Unprovoked,usa,16,1.8 m [6'] shark,Aug,M,N
+567,2005.0,Invalid,usa,25,Shark involvement not confirmed,Jul,M,
+568,2005.0,Unprovoked,usa,22,[4.5' to 5'] shark,Jul,M,N
+569,2005.0,Unprovoked,usa,14,[4' to 5'],Jul,F,N
+570,2005.0,Unprovoked,usa,16,Bull shark,Jun,M,N
+571,2005.0,Unprovoked,usa,14,1.8 m [6'] bull shark,Jun,F,Y
+572,2005.0,Unprovoked,vanuatu,7,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha",Jun,F,Y
+573,2005.0,Invalid,usa,49,Invalid,Jun,M,
+574,2005.0,Unprovoked,usa,20,"Unknown, but it was reported that a shark tooth was recovered from the wound",Jun,M,N
+575,2005.0,Invalid,usa,17,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident",Jun,M,
+576,2005.0,Unprovoked,south africa,22,White shark,Jun,M,Y
+577,2005.0,Unprovoked,usa,33,"""small shark""",May,M,N
+578,2005.0,Unprovoked,south africa,32,Raggedtooth shark,May,M,N
+579,2005.0,Unprovoked,usa,47,"Tiger shark, 3 m [10']",May,M,N
+580,2005.0,Provoked,australia,25,"Mako shark, 1.5 m [5'] ",Apr,M,N
+581,2005.0,Unprovoked,australia,40,Bronze whaler shark,Apr,M,N
+582,2005.0,Unprovoked,south africa,32,4 m [13'] shark,Mar,M,N
+583,2005.0,Unprovoked,australia,26,6 m [20'] white shark,Mar,M,Y
+584,2005.0,Provoked,usa,45,"Sandtiger shark, 2.1 m [7'] ",Mar,M,N
+585,2005.0,Boating,new zealand,39,White shark,Jan,M,N
+586,2004.0,Unprovoked,australia,18,4.5 m & 5 m white shark ,Dec,M,Y
+587,2004.0,Unprovoked,australia,38,Bull shark,Dec,M,Y
+588,2004.0,Unprovoked,south africa,20,Raggedtooth shark,Nov,M,N
+589,2004.0,Unprovoked,south africa,77,6 m [20'] white shark,Nov,F,Y
+590,2004.0,Unprovoked,usa,38,5.5 m [18'] white shark,Nov,,N
+591,2004.0,Unprovoked,cuba,40,2.5 m [8.25'] bull shark,Oct,M,N
+592,2004.0,Unprovoked,south africa,52,2 m [6.75'] white shark,Oct,M,N
+593,2004.0,Unprovoked,australia,59,"Bronze whaler shark, 2.4 m [8'] ",Oct,M,N
+594,2004.0,Unprovoked,usa,34,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] ",Oct,M,N
+595,2004.0,Unprovoked,south africa,34,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']",Oct,M,N
+596,2004.0,Unprovoked,reunion,15,Thought to involve a 2.5 m bull or tiger shark,Oct,M,N
+597,2004.0,Unprovoked,usa,26,White shark,Sep,M,N
+598,2004.0,Unprovoked,usa,17,2.4 m [8'] shark,Sep,F,N
+599,2004.0,Unprovoked,brazil,24,"Tiger shark, 1.5 m ",Aug,M,N
+600,2004.0,Unprovoked,usa,50,4.9 m to 5.5 m [16' to 18'] white shark,Aug,M,Y
+601,2004.0,Unprovoked,usa,47,1.2 m [4'] shark,Aug,M,N
+602,2004.0,Unprovoked,usa,13,1.8 m [6'] shark,Jul,F,N
+603,2004.0,Unprovoked,usa,19,1.2 m to 1.5 m [4' to 5'] shark,Jul,F,N
+604,2004.0,Unprovoked,usa,11,Bull shark,Jul,M,N
+605,2004.0,Unprovoked,australia,30,"2 sharks, 4.5 m & 3 m ",Jul,M,Y
+606,2004.0,Unprovoked,usa,7,4' to 5' shark,Jul,M,N
+607,2004.0,Unprovoked,usa,45,"9'2"" white shark",Jun,M,N
+608,2004.0,Unprovoked,australia,17,"Bronze whaler shark, 2.5 m [8.25'] ",Jun,M,N
+609,2004.0,Unprovoked,usa,8,1.2 m [4'] shark,Jun,M,N
+610,2004.0,Unprovoked,south africa,21,White shark,Jun,M,Y
+611,2004.0,Unprovoked,usa,16,0.9 m to 1.5 m [3' to 5'] shark,May,M,N
+612,2004.0,Unprovoked,brazil,17,Bull shark,May,M,N
+613,2004.0,Unprovoked,usa,44,2.4 m to 3.7 m [8' to 12'] shark,May,M,N
+614,2004.0,Provoked,bahamas,63,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)",May,M,N
+615,2004.0,Unprovoked,usa,28,"Mako shark, 1.8 m [6']",May,M,N
+616,2004.0,Unprovoked,usa,57,Tiger shark,Apr,M,Y
+617,2004.0,Unprovoked,south africa,16,5 m [16.5'] white shark,Apr,M,N
+618,2004.0,Unprovoked,usa,20,1.2 m [4'] bull shark,Mar,M,N
+619,2004.0,Unprovoked,brazil,22,bull shark,Mar,M,N
+620,2004.0,Unprovoked,reunion,20,2.5 m shark,Mar,M,N
+621,2004.0,Unprovoked,usa,51,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Mar,M,N
+622,2004.0,Unprovoked,new zealand,15,2 m [6.75'] sevengill  shark,Feb,M,N
+623,2004.0,Invalid,australia,31,Shark involvement not confirmed,Feb,M,
+624,2004.0,Unprovoked,australia,46,4 m to 5 m [13' to 16.5'] white shark,Jan,M,N
+625,2004.0,Unprovoked,venezuela,40,"Bull shark, 132-kg [291-lb] ",Jan,M,N
+626,2003.0,Unprovoked,south africa,21,"Tiger shark, 4 m [13']  ?",Nov,M,Y
+627,2003.0,Unprovoked,usa,35,4' shark,Nov,F,N
+628,2003.0,Unprovoked,usa,18,1.2 m to 1.5 m [4' to 5'] shark,Oct,M,N
+629,2003.0,Unprovoked,australia,22,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark",Oct,M,N
+630,2003.0,Unprovoked,usa,13,"Tiger shark, 14' ",Oct,F,N
+631,2003.0,Invalid,usa,56,Shark involvement not confirmed,Oct,M,
+632,2003.0,Unprovoked,usa,19,1.2 m [4'] shark,Oct,M,N
+633,2003.0,Unprovoked,usa,41,"1.2 m [4'] ""grey-colored shark""",Oct,F,N
+634,2003.0,Unprovoked,usa,30,3' shark,Sep,M,N
+635,2003.0,Invalid,usa,8 or 10,Shark involvement doubtful,Sep,F,
+636,2003.0,Unprovoked,usa,18,6' shark,Sep,M,N
+637,2003.0,Unprovoked,usa,15,7' shark,Sep,M,N
+638,2003.0,Unprovoked,south africa,19,White shark,Sep,M,Y
+639,2003.0,Unprovoked,usa,50,4.5 m to 5.5 m [15' to 18'] white shark,Aug,F,Y
+640,2003.0,Invalid,usa,31,Shark involvement not confirmed,Aug,M,
+641,2003.0,Unprovoked,south africa,16,3.5 m [11.5'] white shark,Aug,M,N
+642,2003.0,Unprovoked,bahamas,58,Unidentified species,Jul,M,N
+643,2003.0,Provoked,usa,10,2' shark,Jul,M,N
+644,2003.0,Unprovoked,bahamas,39,2.1 m  [7'] bull shark,Jul,M,N
+645,2003.0,Unprovoked,usa,17,Unidentified species,Jun,M,N
+646,2003.0,Unprovoked,usa,15,106 cm [3.5']  shark,Jun,M,N
+647,2003.0,Unprovoked,usa,12,small brown shark,Jun,F,N
+648,2003.0,Unprovoked,usa,60,3.7 m to 4.3 m [12' to 14'] shark,Jun,M,N
+649,2003.0,Unprovoked,usa,33,"""sand shark""",Jun,M,N
+650,2003.0,Unprovoked,usa,22,3' to 5' shark,May,M,N
+651,2003.0,Unprovoked,usa,20,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,May,M,N
+652,2003.0,Provoked,usa,34,4' to 5' shark,May,M,N
+653,2003.0,Unprovoked,brazil,17,Bull shark,Apr,M,N
+654,2003.0,Unprovoked,usa,36,Unidentified species,Apr,M,N
+655,2003.0,Unprovoked,usa,17,Unidentified species,Apr,M,N
+656,2003.0,Unprovoked,usa,30,Unidentified species,Apr,M,N
+657,2003.0,Unprovoked,usa,23,0.9 m to 1.2 m [3' to 4'] shark,Apr,M,N
+658,2003.0,Unprovoked,usa,18,Unidentified species,Apr,M,N
+659,2003.0,Unprovoked,usa,11,A small shark,Apr,M,N
+660,2003.0,Unprovoked,usa,12,Unidentified species,Apr,M,N
+661,2003.0,Unprovoked,usa,20,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",Apr,M,N
+662,2003.0,Unprovoked,venezuela,28,"Mako shark, 3 m [10']",Apr,M,N
+663,2003.0,Unprovoked,usa,50,4' to 5' shark,Apr,M,N
+664,2003.0,Unprovoked,new zealand,44,2.5 m [8.25'] white shark,Feb,M,N
+665,2003.0,Unprovoked,australia,37,"""a small shark""",Feb,M,N
+666,2003.0,Unprovoked,usa,54,Species unidentified,Feb,M,N
+667,2003.0,Unprovoked,australia,24,Thought to involve a 2 m [6.75'] grey nurse shark,Feb,M,N
+668,2003.0,Unprovoked,australia,84,Thought to involve a >2 m [6.75'] bull shark,Feb,M,Y
+669,2003.0,Invalid,south africa,14,Shark involvement prior to death was not confirmed,Jan,M,
+670,2002.0,Unprovoked,south africa,25,"White shark, 4 m white shark",Dec,M,N
+671,2002.0,Unprovoked,australia,23,Bull shark,Dec,M,Y
+672,2002.0,Unprovoked,usa,48,3 m to 4.5 m [10' to 15'] white shark,Nov,M,N
+673,2002.0,Unprovoked,usa,34,2.4 m to 3 m [8' to 10'] grey colored shark,Nov,F,N
+674,2002.0,Unprovoked,turks & caicos,41,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark ,Nov,F,N
+675,2002.0,Unprovoked,usa,21,6' shark,Nov,M,N
+676,2002.0,Unprovoked,usa,16,3' to 4' shark,Nov,M,N
+677,2002.0,Unprovoked,usa,60,A small shark,Oct,F,N
+678,2002.0,Unprovoked,brazil,36,Possibly a bull shark or tiger shark,Oct,M,Y
+679,2002.0,Unprovoked,usa,14,Blacktip or spinner shark,Oct,M,N
+680,2002.0,Unprovoked,usa,35,3.5' to 4.5' shark,Oct,M,N
+681,2002.0,Unprovoked,usa,18,3.5' to 4' shark,Oct,M,N
+682,2002.0,Unprovoked,usa,47,4' to 5' shark,Sep,M,N
+683,2002.0,Unprovoked,usa,55,1.2 m [4'] blacktip shark,Sep,M,N
+684,2002.0,Provoked,usa,  ,1.8 m [6'] blacktip shark,Sep,M,N
+685,2002.0,Provoked,tonga, ,"Tiger shark, 1.5 m [5']k",Sep,M,N
+686,2002.0,Unprovoked,usa,24,2.4 m [8'] shark,Sep,M,N
+687,2002.0,Unprovoked,usa,35,3 m to 3.7 m [10' to 12'] shark,Sep,M,N
+688,2002.0,Unprovoked,brazil,19,Bull or tiger shark,Sep,M,N
+689,2002.0,Unprovoked,south africa,47,White shark,Sep,M,N
+690,2002.0,Unprovoked,usa,20,4' to 6' shark,Sep,M,N
+691,2002.0,Provoked,usa,36,1' to 2' hammerhead or bonnethed shark,Sep,M,N
+692,2002.0,Unprovoked,usa,16,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Aug,M,N
+693,2002.0,Unprovoked,usa,27,0.9 m  to 1.2 m [3' to 4'] shark,Aug,M,N
+694,2002.0,Unprovoked,usa,15,"Nurse shark, 1.5 m [5'] ",Aug,M,N
+695,2002.0,Unprovoked,usa,14,1.2 m to 1.5 m [4' to 5'] shark,Aug,M,N
+696,2002.0,Unprovoked,usa,13,1.2 m [4'] blacktip or sandbar shark,Jul,M,N
+697,2002.0,Unprovoked,usa,15,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",Jul,F,N
+698,2002.0,Provoked,usa,41,"Mako shark, 400-lb ",Jul,M,Y
+699,2002.0,Unprovoked,brazil,22,Bull or tiger shark,Jul,M,N
+700,2002.0,Unprovoked,usa,9,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark",Jul,F,N
+701,2002.0,Unprovoked,usa,28,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,Jun,M,N
+702,2002.0,Unprovoked,usa,50,  ,Jun,M,N
+703,2002.0,Unprovoked,south africa,50,1.5 to 2.5 m [5' to 8.25'] copper shark,Jun,M,N
+704,2002.0,Unprovoked,usa,24,3.7 m to 4.3 m [12' to 14'] white shark,May,M,N
+705,2002.0,Unprovoked,usa,16,1 m  shark,May,M,N
+706,2002.0,Provoked,usa,55,3' blacktip shark,May,M,N
+707,2002.0,Unprovoked,australia,23,"White shark, 6m [20']",Apr,M,Y
+708,2002.0,Unprovoked,usa,34,1.2 m [4'] shark,Apr,M,N
+709,2002.0,Unprovoked,bahamas,43,"Bull shark, 400-lb ",Apr,M,N
+710,2002.0,Unprovoked,usa,41,3'  shark,Apr,M,N
+711,2002.0,Unprovoked,usa,29,0.9 m [3'] shark,Apr,M,N
+712,2002.0,Unprovoked,usa,17,Tiger shark,Mar,M,N
+713,2002.0,Unprovoked,usa,11,  ,Mar,F,N
+714,2002.0,Unprovoked,usa,20,4' shark,Mar,M,N
+715,2002.0,Unprovoked,usa,39,"Nurse shark, 1m ",Mar,M,N
+716,2002.0,Unprovoked,usa,31,"Spinner shark, 3' to 4' ",Mar,M,N
+717,2002.0,Unprovoked,australia,30 or 36,"1.5 m [5'] ""whaler shark""",Feb,M,N
+718,2002.0,Boating,australia,35,C. leucas tooth fragment recovered from kayak,Feb,M,N
+719,2002.0,Unprovoked,australia,20,"Tiger shark, 3 m [10']",Jan,M,N
+720,2002.0,Unprovoked,south africa,16,Zambesi shark?,Jan,M,N
+721,2002.0,Unprovoked,south africa,26,Unidentified,Jan,M,N
+722,2002.0,Unprovoked,usa,35,"Tiger shark, 1.8 m [6'] ",Jan,M,N
+723,2001.0,Unprovoked,australia,20,Bronze whaler shark?,Oct,F,N
+724,2001.0,Unprovoked,mexico,26,"Tiger shark, 1.8 m [6']",Sep,M,N
+725,2001.0,Provoked,usa,21,4' shark,Sep,M,N
+726,2001.0,Invalid,usa,42,Questionable incident - shark bite may have precipitated drowning,Sep,M,Y
+727,2001.0,Unprovoked,usa,6½,2' to 3.5' shark,Sep,M,N
+728,2001.0,Unprovoked,usa,28,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,Sep,M,Y
+729,2001.0,Unprovoked,usa,23,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,Sep,F,N
+730,2001.0,Unprovoked,usa,20,1.5 m [5'] shark,Sep,M,N
+731,2001.0,Unprovoked,usa,10,bull shark,Sep,M,Y
+732,2001.0,Unprovoked,bahamas,44,3 m [10'] bull shark,Aug,M,N
+733,2001.0,Unprovoked,usa,17,a small shark,Aug,M,N
+734,2001.0,Unprovoked,usa,20,Possibly  a blacktip or spinner shark,Aug,M,N
+735,2001.0,Unprovoked,usa,19,"3' shark, possibly  a blacktip or spinner shark",Aug,M,N
+736,2001.0,Unprovoked,usa,19,"Blacktip shark, 5' to 6' ",Aug,M,N
+737,2001.0,Unprovoked,bahamas,43,1.9 m [6.5'] bull shark,Aug,M,N
+738,2001.0,Unprovoked,usa,18,0.9 m  [3'] shark,Jul,M,N
+739,2001.0,Unprovoked,usa,8,"Bull shark, 2.3 m [7.5'] ",Jul,M,N
+740,2001.0,Provoked,usa,52,"White shark, 2.4 m to 3 m [8' to 10'] ",Jun,M,N
+741,2001.0,Unprovoked,usa,29,2' shark,Jun,F,N
+742,2001.0,Unprovoked,usa,45,1.2 m to 1.5 m [4' to 5'] shark,May,M,N
+743,2001.0,Unprovoked,usa,12,Possibly a juvenile blacktip or spinner shark,Apr,M,N
+744,2001.0,Unprovoked,usa,21,Possibly a juvenile blacktip or spinner shark,Apr,M,N
+746,2001.0,Unprovoked,usa,22,Possibly a 1.5 m [5'] blacktip or spinner shark,Apr,M,N
+747,2001.0,Unprovoked,usa,19,Possibly a juvenile blacktip or spinner shark,Apr,M,N
+748,2001.0,Unprovoked,south africa,46,"White shark, 2.7 m [9'] ",Apr,M,N
+749,2001.0,Unprovoked,usa,26,"""small shark""",Apr,M,N
+750,2001.0,Unprovoked,australia,40,Bronze whaler shark,Apr,M,N
+751,2001.0,Unprovoked,australia,40,"Bronze whaler shark, 2.5 m [8.25']  k",Feb,M,N
+752,2000.0,Unprovoked,fiji,47,6 m [20'] shark,Dec,M,Y
+753,2000.0,Unprovoked,australia,38,"Bronze whaler shark, 2.5 m [8.25'] ",Dec,M,N
+754,2000.0,Unprovoked,usa,73,1.2 m to 1.8 m [4' to 6'] shark,Nov,M,N
+755,2000.0,Unprovoked,australia,52,"White shark, 4.9 m [16'] ",Nov,M,N
+756,2000.0,Unprovoked,australia,49,"White shark, 5 m [16.5'] ",Nov,M,Y
+757,2000.0,Unprovoked,usa,27,"White shark, 2.4 m to 3 m [8' to 10'] ",Nov,M,N
+758,2000.0,Unprovoked,usa,56,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Oct,F,N
+759,2000.0,Unprovoked,usa,17,2.1 to 2.4 m [7' to 8'] shark,Oct,M,N
+760,2000.0,Unprovoked,usa,23,"Blacktip shark, 2' ",Oct,M,N
+761,2000.0,Unprovoked,australia,17,White shark,Sep,M,Y
+762,2000.0,Unprovoked,australia,25,"White shark, 4 m to 5 m [13' to 16.5'] ",Sep,M,Y
+763,2000.0,Unprovoked,okinawa,31,"White shark, 2.5 m ",Sep,M,Y
+764,2000.0,Unprovoked,usa,25,60 cm to 90 cm [2' to 3'] shark,Sep,M,N
+765,2000.0,Unprovoked,south africa,48,"White shark, 3.5 m [11.5']  male ",Sep,M,N
+766,2000.0,Unprovoked,usa,40,1.5 m [5'] shark,Sep,M,N
+767,2000.0,Unprovoked,reunion,27,"Tiger shark, 3 m [10'] ",Sep,M,N
+768,2000.0,Unprovoked,usa,47,A 2' shark was seen in the area by witnesses,Aug,M,N
+769,2000.0,Unprovoked,usa,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",Aug,M,Y
+770,2000.0,Unprovoked,usa,53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",Aug,M,N
+771,2000.0,Unprovoked,usa,27,juvenile shark,Aug,M,N
+772,2000.0,Unprovoked,usa,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",Aug,F,N
+773,2000.0,Unprovoked,usa,12,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?",Jul,F,N
+774,2000.0,Unprovoked,usa,55,"Nurse shark, 1.2 m [4'] ",Jul,F,N
+775,2000.0,Unprovoked,usa,13,0.9 m [3'] shark,Jul,F,N
+776,2000.0,Unprovoked,usa,19,"0.9 m [3'] shark,  probably a blacktip or spinner shark",Jul,F,N
+777,2000.0,Unprovoked,usa,17,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",Jun,M,N
+778,2000.0,Unprovoked,usa,55,Bull shark?,Jun,M,N
+779,2000.0,Unprovoked,usa,44,Bull shark,Jun,M,N
+780,2000.0,Unprovoked,australia,26,2.5 m shark,Mar,M,N
+781,2000.0,Unprovoked,usa,14,1.8 m [6'] shark,Mar,F,N
+782,2000.0,Unprovoked,usa,37,1.2 m [4'] shark,Mar,M,N
+783,2000.0,Unprovoked,new caledonia,35,Tiger shark?,Mar,M,Y
+784,2000.0,Unprovoked,usa,39,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",Mar,M,N
+785,1999.0,Invalid,brazil,39,Shark involvement not confirmed,Dec,M,N
+786,1999.0,Unprovoked,usa,51,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Nov,F,N
+787,1999.0,Unprovoked,brazil,39,1.3 to 1.6 m shark,Nov,M,N
+788,1999.0,Unprovoked,usa,16,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Oct,M,N
+789,1999.0,Unprovoked,usa,37,White shark,Sep,M,N
+790,1999.0,Unprovoked,usa,28,"""a small shark""",Aug,M,N
+791,1999.0,Unprovoked,marshall islands,23,7' shark,Aug,M,N
+792,1999.0,Unprovoked,usa,10,1.8 m [6'] shark,Aug,M,N
+793,1999.0,Unprovoked,usa,62,4' to 5' shark,Aug,M,N
+794,1999.0,Unprovoked,bahamas,35,2.7 m [9']  bull shark or Caribbean reef shark,Aug,M,N
+795,1999.0,Unprovoked,south africa,42,"White shark, 3 m to 5 m [10' to 16.5'] ",Jul,M,N
+796,1999.0,Unprovoked,usa,43,"Bull shark, 2.1 m [7']",Jul,M,N
+797,1999.0,Unprovoked,usa,43,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",Jul,M,N
+798,1999.0,Unprovoked,south africa,14,White shark,Jul,M,Y
+799,1999.0,Unprovoked,usa,30,"Blacktip shark, 1.8 m [6'] ",Jul,F,N
+800,1999.0,Unprovoked,south africa,29,"White shark, 4 m [13'] ",Jul,M,N
+801,1999.0,Unprovoked,usa,21,3' to 4' shark,Jun,M,N
+802,1999.0,Unprovoked,usa,5,Blacktip or spinner shark,Jun,M,N
+803,1999.0,Unprovoked,australia,22,Thought to involve a white shark,May,M,Y
+804,1999.0,Unprovoked,brazil,21,"Tiger shark, 2.5 m [8.25']",May,M,N
+805,1999.0,Unprovoked,mauritius,41,"Grey reef shark, 1.5 m ",Apr,F,N
+806,1999.0,Unprovoked,reunion,52,3 bull sharks,Apr,M,Y
+807,1999.0,Unprovoked,usa,29,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,Mar,F,N
+808,1999.0,Unprovoked,australia,35,Bronze whaler or tiger shark,Feb,M,N
+809,1999.0,Unprovoked,usa,25,Spinner shark,Feb,M,N
+810,1999.0,Unprovoked,south africa,30,"White shark, 4.6 m [15'] ",,M,N
+811,1998.0,Unprovoked,south africa,18,Possibly a white shark,Reported,M,N
+812,1998.0,Unprovoked,usa,9,Tiger shark,Nov,M,Y
+813,1998.0,Unprovoked,usa,14,1.2 m [4'] shark,Nov,M,N
+814,1998.0,Unprovoked,usa,13,"A ""small shark""",Nov,M,N
+815,1998.0,Unprovoked,brazil,22,Though to involve a white shark,Nov,M,Y
+816,1998.0,Unprovoked,usa,26,3' to 4' shark,Aug,M,N
+817,1998.0,Unprovoked,usa,16,"White shark, 5 m to 6 m [16.5' to 20'] ",Aug,M,N
+818,1998.0,Unprovoked,bahamas,28,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",Aug,M,N
+819,1998.0,Unprovoked,south africa,24,"White shark, 4.9 m [16']",Aug,M,N
+820,1998.0,Unprovoked,south africa,16,5' to 6' shark,Jul,M,N
+821,1998.0,Unprovoked,australia,26,Thought to involve a 5.5 m white shark named Kong,Jun,M,Y
+822,1998.0,Unprovoked,south africa,20,White shark,Jun,M,Y
+823,1998.0,Unprovoked,south africa,15,3 m to 4 m [10' to 13'] white shark,May,M,N
+824,1998.0,Unprovoked,south africa,16,Unidentified,May,M,N
+825,1998.0,Unprovoked,usa,40,"Lemon shark, 1.5 m [5'], identified  by the surfer",May,M,N
+826,1998.0,Unprovoked,usa,14,"1.8 m [6'] shark, possibly a blacktip",May,F,N
+827,1998.0,Unprovoked,south africa,22,4 m [13'] white shark,May,M,N
+828,1998.0,Unprovoked,mozambique,35,3 m [10'] shark,Apr,F,Y
+829,1998.0,Unprovoked,usa,50,5 m [16.5'] white shark,Apr,M,N
+830,1998.0,Unprovoked,south africa,33,3 m [10'] white shark,Mar,M,N
+831,1998.0,Unprovoked,usa,32,5' spinner shark,Mar,M,N
+832,1998.0,Invalid,australia,31,Shark involvement not confirmed,Reported,M,
+833,1998.0,Unprovoked,mozambique,23,Small dusky shark or blackfin shark,Jan,M,N
+834,1997.0,Unprovoked,south africa,39,White shark,Dec,M,Y
+835,1997.0,Unprovoked,australia,42,White shark,Nov,M,N
+836,1997.0,Unprovoked,usa,19,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",Oct,M,N
+837,1997.0,Unprovoked,usa,23,Possibly a blacktip shark,Oct,M,N
+838,1997.0,Unprovoked,usa,12,1.2 m to 1.5 m [4' to 5'] shark,Oct,M,N
+839,1997.0,Unprovoked,usa,29,5 m [16.5'] white shark,Aug,M,N
+840,1997.0,Unprovoked,usa,17,juvenile shark,Aug,M,N
+841,1997.0,Unprovoked,usa,19,"""juvenile shark""",Aug,M,N
+842,1997.0,Unprovoked,south africa,25,4.5 m white shark,Jul,M,Y
+843,1997.0,Unprovoked,usa,50,Blacktip shark,Jul,M,N
+844,1997.0,Unprovoked,fiji,47,"Tiger shark, 2.7m  [9']",Jun,F,N
+845,1997.0,Unprovoked,usa,18,Possibly a spinner shark,Jun,M,N
+846,1997.0,Unprovoked,usa,33,1.2 m [4'] shark (spinner shark?),Jun,M,N
+847,1997.0,Unprovoked,usa,35,4' shark,May,M,N
+848,1997.0,Unprovoked,usa,34,Possibly a sand shark,May,M,N
+849,1997.0,Unprovoked,usa,12,Possibly a sand shark,May,M,N
+850,1997.0,Unprovoked,australia, 30,"Tiger shark, 2m to 3m ",Feb,M,N
+851,1997.0,Unprovoked,australia,27,1.8 m to 2.1 m [6' to 7'] shark,Jan,M,N
+852,1997.0,Unprovoked,australia,41,"Tiger shark, 4.5 m [14'9""]",Jan,M,Y
+853,1996.0,Unprovoked,usa,45,3 m to 5 m [10' to 16.5'] white shark,Nov,M,N
+854,1996.0,Unprovoked,usa,22,5.5 m to 6 m [18' to 20'] white shark,Oct,M,N
+855,1996.0,Unprovoked,usa,21,1.2 m [4'] shark,Oct,M,N
+856,1996.0,Unprovoked,usa,31,5 m [16.5'] white shark,Oct,M,N
+857,1996.0,Unprovoked,new zealand,23,White shark,Sep,M,N
+858,1996.0,Unprovoked,usa,19,"""a young shark""",Sep,M,N
+859,1996.0,Invalid,usa,28,Shark involvement not confirmed,Sep,F,
+860,1996.0,Provoked,south africa,29,White shark,Sep,M,N
+861,1996.0,Unprovoked,usa,19,"Tiger shark, 2.4 m [8'] ",Aug,M,N
+862,1996.0,Unprovoked,usa,36,6 m [20'] white shark,Aug,M,N
+863,1996.0,Unprovoked,usa,21,1.8 m to 2.1 m [6' to 7'] hammerhead shark,Aug,M,N
+864,1996.0,Unprovoked,usa,63,5' to 6' shark,Jul,F,N
+865,1996.0,Unprovoked,south africa,17,2.5 m [8.25'] white shark ,May,M,N
+866,1996.0,Unprovoked,usa,22,1.2 m [4'] shark,May,M,N
+867,1996.0,Unprovoked,usa,27,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,May,M,N
+868,1996.0,Unprovoked,australia,47,Tiger shark,Mar,F,N
+869,1996.0,Unprovoked,australia,24,Bronze whaler shark,Feb,M,N
+870,1996.0,Unprovoked,australia,7,"""reef shark""",Feb,M,N
+871,1996.0,Unprovoked,usa,53,Possibly a tiger shark,Jan,M,N
+872,1996.0,Unprovoked,reunion,25,"Tiger shark, 300-kg [662-lb] ",Jan,M,Y
+873,1995.0,Unprovoked,australia,15,4 m shark,Oct,F,N
+874,1995.0,Unprovoked,usa,39,1.2 m to 1.5 m [4' to 5']   shark,Oct,M,N
+875,1995.0,Unprovoked,usa,14,1.5 to 1.8 m [5' to 6'] shark,Sep,M,N
+876,1995.0,Unprovoked,usa,25,4 m [13'] white shark,Sep,M,N
+877,1995.0,Unprovoked,australia,29,White shark,Sep,M,Y
+878,1995.0,Unprovoked,usa,32,3 m to 4 m [10' to 13'] white shark,Sep,M,N
+879,1995.0,Unprovoked,usa,16,5' shark,Aug,M,N
+880,1995.0,Unprovoked,usa,18,"""a small shark""",Aug,M,N
+881,1995.0,Unprovoked,usa,16,1.2 m to 1.5 m [4' to 5'] shark,Aug,M,N
+882,1995.0,Unprovoked,usa,23,"""sand"" shark",Aug,M,N
+883,1995.0,Unprovoked,usa,19,"""small shark""",Aug,M,N
+884,1995.0,Unprovoked,tonga,18,"""small shark""",Aug,M,N
+885,1995.0,Unprovoked,usa,20,1.8 m [6'] shark,Aug,M,N
+886,1995.0,Unprovoked,usa,12,1.2 m to 1.5 m [4' to 5'] shark,Aug,M,N
+887,1995.0,Unprovoked,usa,31,6 m [20'] white shark,Jun,M,N
+888,1995.0,Unprovoked,usa,45,1.8 m [6'] shark,Jun,M,N
+889,1995.0,Unprovoked,usa,10,6' shark,Jun,F,N
+890,1995.0,Unprovoked,usa,38,"Tiger shark, 3.7 m [12'] ",Jun,M,N
+891,1995.0,Unprovoked,hong kong,29,1.8 m to 2.1 m [6' to 7'] shark,Jun,M,Y
+892,1995.0,Unprovoked,japan,47,6 m [20'] white shark,Apr,M,Y
+893,1995.0,Unprovoked,australia,35,"Bronze whaler shark, 2 m ",Mar,M,N
+894,1995.0,Unprovoked,south africa,22,Raggedtooth shark,Feb,M,N
+895,1995.0,Unprovoked,south africa,14,"Tiger shark, 1.8 m [6'] ",Jan,M,Y
+896,1994.0,Unprovoked,south africa,26,5.5 m [18'] white shark,Dec,M,N
+897,1994.0,Unprovoked,usa,42,5 m to 5.5 m [16.5' to 18'] white shark,Dec,M,Y
+898,1994.0,Unprovoked,usa,34,2.7 m [9'] shark,Nov,F,N
+899,1994.0,Provoked,usa,9,Thought to involve a small sand shark,Oct,F,N
+900,1994.0,Unprovoked,usa,43,5 m [16.5'] white shark,Sep,M,N
+901,1994.0,Unprovoked,usa,12,Small shark,Sep,F,N
+902,1994.0,Unprovoked,reunion,24,3 to 3.5 m [10' to 11.5'] bull shark,Jul,M,Y
+903,1994.0,Unprovoked,south africa,22,4 m [13'] white shark,Jul,M,Y
+904,1994.0,Unprovoked,south africa,31,4 m [13'] white shark,Jul,M,N
+905,1994.0,Unprovoked,usa,15,"""small shark""",Jul,M,N
+906,1994.0,Unprovoked,bahamas,30,1.8 m [6'] shark,Jun,M,N
+907,1994.0,Unprovoked,usa, 28,1.2 m [4'] spinner shark,May,M,N
+908,1994.0,Unprovoked,usa,22,>1.8 m [6'] shark,May,M,N
+909,1994.0,Unprovoked,usa,23,1.2 m [4'] shark,Feb,M,N
+910,1994.0,Unprovoked,south africa,15,3 m [10'] white shark,Feb,M,N
+911,1994.0,Unprovoked,south africa,33,"1.3 m [4'3""] shark",Jan,M,N
+912,1993.0,Unprovoked,australia,27,Tiger shark caught 6 days later with divers remains in its gut,Nov,M,Y
+913,1993.0,Unprovoked,usa,26,4 m to 5 m [13' to 16.5'] white shark,Oct,M,N
+914,1993.0,Unprovoked,usa,26,3 m [10'] bull shark,Oct,F,N
+915,1993.0,Boating,usa,34,>6 m [20'] white shark,Oct,F,N
+916,1993.0,Unprovoked,south africa,36,3 m [10'] white shark,Sep,M,N
+917,1993.0,Unprovoked,spain,69,1.2 m [4'] shark,Sep,M,N
+918,1993.0,Unprovoked,bahamas,51,1.8 m [6'] blacktip shark or Caribbean reef shark,Aug,M,N
+919,1993.0,Unprovoked,usa,19,Bull shark,Aug,F,N
+920,1993.0,Unprovoked,usa,39,5.5 m to 6 m [18' to 20']  white shark,Aug,M,N
+921,1993.0,Unprovoked,south africa,28,4 m [13'] white shark,Jul,M,N
+922,1993.0,Unprovoked,usa,12,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",Jul,F,N
+923,1993.0,Unprovoked,usa,22,Thought to involve a tiger shark,Jun,M,N
+924,1993.0,Unprovoked,australia,31,Remains recovered from 5.5 m [18'] white shark,Jun,M,Y
+925,1993.0,Unprovoked,australia,34,5 m [16.5'] white shark,Jun,F,Y
+926,1993.0,Unprovoked,usa,60's,6' shark,Jun,F,N
+927,1993.0,Unprovoked,usa,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",Mar,M,N
+928,1993.0,Unprovoked,usa,55,White shark,Mar,M,N
+929,1993.0,Provoked,australia,69,"Bronze whaler shark, 1.5 m ",Feb,M,N
+930,1993.0,Unprovoked,australia,21,1.5 m shark,Jan,M,N
+931,1993.0,Unprovoked,usa,29,6 m [20'] white shark,Jan,M,N
+932,1992.0,Unprovoked,usa,10,"Tiger shark, 2.4 m [8']",Dec,M,N
+933,1992.0,Unprovoked,usa,30,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",Dec,M,N
+934,1992.0,Unprovoked,usa,31,"Mako shark, 1.8 m [6']  ",Nov,M,N
+935,1992.0,Unprovoked,usa,19,6' to 7' blacktip shark,Nov,M,N
+936,1992.0,Boating,usa,46,5 m to 6 m white shark,Nov,M,N
+937,1992.0,Unprovoked,usa,40,Unidentified shark,Nov,M,N
+938,1992.0,Unprovoked,usa,18,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",Nov,M,Y
+939,1992.0,Unprovoked,usa,40,2.5 m [8.25'] white shark,Oct,M,N
+940,1992.0,Unprovoked,usa,28,"Tiger shark, 4.3 m [14'] ",Oct,M,N
+941,1992.0,Unprovoked,australia,28,4.2 m white shark,Oct,M,Y
+942,1992.0,Unprovoked,usa,20,4 m to 5 m [13' to 16.5']  white shark ,Sep,M,N
+943,1992.0,Unprovoked,australia,17,4 m white shark,Aug,M,N
+944,1992.0,Unprovoked,usa,22,5.5 m to 6 m [18' to 20'] white shark,Aug,M,N
+945,1992.0,Unprovoked,usa,42,"""a small shark""",Jul,F,N
+946,1992.0,Unprovoked,reunion,16,Bull shark or lemon shark,Jun,M,Y
+947,1992.0,Unprovoked,south africa,35,>2 m shark,Apr,M,N
+948,1992.0,Unprovoked,usa,36,Tiger shark,Mar,F,N
+949,1992.0,Unprovoked,japan,41,"5 m [16.5'] white shark, identification by K. Nakaya",Mar,M,Y
+950,1992.0,Unprovoked,usa,21,Said to involve a 6 m to 7 m [20' to 23'] white shark,Mar,M,N
+951,1992.0,Invalid,australia,19,Questionable incident,Feb,M,
+952,1992.0,Unprovoked,australia,19,"Bronze whaler shark, 2.3 m [7.5'] ",Jan,M,N
+953,1992.0,Unprovoked,south africa,19,"Zambesi shark, 1.7 m [5.5'] ",Jan,M,N
+954,1992.0,Unprovoked,south africa,36,Possibly a 1.5 m [5'] blacktip shark,Jan,M,N
+955,1991.0,Unprovoked,usa,25,6 m [20'] white shark,Dec,M,N
+956,1991.0,Unprovoked,usa,41,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",Nov,F,Y
+957,1991.0,Unprovoked,usa,21,1.8 m [6'] shark,Oct,M,N
+958,1991.0,Unprovoked,usa,32,5 m to 6 m [16.5' to 20'] white shark,Oct,M,N
+959,1991.0,Unprovoked,australia,19,4 m [13'] white shark,Sep,M,Y
+960,1991.0,Provoked,australia,36,"3 m [10'], 270- kg [595-lb] shark",Aug,M,N
+961,1991.0,Unprovoked,usa,23,sand shark,Aug,M,N
+962,1991.0,Unprovoked,usa,10,3' shark,Aug,F,N
+963,1991.0,Boating,italy,40,4 m [13'] white shark,Jul,F,N
+964,1991.0,Unprovoked,reunion,30,"Tiger shark, 3 to 4 m [10' to 13'] ",Jul,M,N
+965,1991.0,Unprovoked,usa,32,5 m [16.5'] white shark,Jul,M,N
+966,1991.0,Unprovoked,usa,31,2.7 m [9'] bull or lemon shark,Jun,M,N
+967,1991.0,Unprovoked,hong kong,65,"Tiger shark, >3 m [10']",Jun,F,Y
+968,1991.0,Unprovoked,usa,23,2.4 m [8'] shark,May,M,N
+969,1991.0,Unprovoked,usa,22,1.2 m to 1.5 m [4' to 5'] shark,Apr,M,N
+970,1991.0,Unprovoked,usa,38,5.5 m [18'] white shark,Feb,M,N
+971,1991.0,Unprovoked,south africa,20,5.5 m [18'] white shark,Feb,M,N
+972,1990.0,Unprovoked,usa,24,5' shark,Nov,M,N
+973,1990.0,Unprovoked,usa,50,1.8 m [6'] shark ,Oct,M,N
+974,1990.0,Unprovoked,usa,25,4' spinner shark,Oct,M,N
+975,1990.0,Unprovoked,usa,43,"Tiger shark, 3.7 m [12'] ",Oct,M,N
+976,1990.0,Unprovoked,usa,19,1.8 m to 2.4 m [6' to 8'] shark,Oct,M,N
+977,1990.0,Unprovoked,south africa,26,5 m  [16.5'] white shark,Sep,M,N
+978,1990.0,Unprovoked,usa,49,White shark,Sep,M,N
+979,1990.0,Boating,usa,44,2.5 m to 3 m [8.25' to 10']  white shark,Sep,M,N
+980,1990.0,Unprovoked,usa,22,5 m to 6 m [16.5' to 20'] white shark,Aug,M,N
+981,1990.0,Unprovoked,south africa,21,"4.5 m [14'9""] white shark",Jun,F,Y
+982,1990.0,Unprovoked,south africa,22,"5.5 m [18'] white shark, identified by witnesses & tooth marks",May,M,N
+983,1990.0,Unprovoked,south africa,23,"2.3 m [7.5'] white shark, identified by M. Smale",Apr,M,N
+984,1990.0,Unprovoked,australia,31,"Tiger shark, 3 m ",Apr,M,N
+985,1989.0,Unprovoked,south africa,29,White shark,Nov,M,Y
+986,1989.0,Unprovoked,australia,17,2.7 m [9'] white shark,Oct,M,N
+987,1989.0,Unprovoked,usa,12,4' shark,Oct,M,N
+988,1989.0,Invalid,usa,49,Shark involvement suspected but not confirmed,Oct,M,
+989,1989.0,Unprovoked,south africa,29,"White shark, identified by tooth pattern",Sep,M,N
+990,1989.0,Provoked,usa,51,150-lb shark,Sep,M,N
+991,1989.0,Unprovoked,usa,38,4 m to 5 m [13' to 16.5']  white shark,Sep,M,N
+992,1989.0,Provoked,australia,30,Grey nurse shark,Aug,M,N
+993,1989.0,Unprovoked,south africa,21,>3.4 m [11'] white shark,Aug,M,N
+994,1989.0,Unprovoked,australia,17,"Bronze whaler shark, 3 m [10'] ",Aug,M,N
+995,1989.0,Unprovoked,south africa,34,2.5 m [8.25'] white shark,Jul,M,N
+996,1989.0,Unprovoked,south africa,16,3 m [10'] white shark,Jun,M,N
+997,1989.0,Unprovoked,south africa,28,2.5 m [8.25'] white shark,Jun,M,N
+998,1989.0,Unprovoked,australia,27,2 m [6.75'] white shark,Mar,M,Y
+999,1989.0,Unprovoked,italy,47,6 m [20'] white shark,Feb,M,Y
+1000,1989.0,Invalid,usa,24,Invalid,Jan,M,
+1001,1989.0,Unprovoked,usa,24,5 m [16.5'] white shark,Jan,F,Y
+1002,1989.0,Unprovoked,australia,17,"Tiger shark, 4 m [13'] ",Jan,M,N
+1003,1988.0,Unprovoked,usa,21,5.5 m to 6 m [18' to 20']  white shark,Oct,M,N
+1004,1988.0,Unprovoked,usa,30,1.2 m to 1.5 m [4' to 5'] shark,Oct,M,N
+1005,1988.0,Unprovoked,usa,23,1.2 m to 1.5 m [4' to 5'] shark,Oct,M,N
+1006,1988.0,Unprovoked,usa,21,5' shark,Sep,M,N
+1007,1988.0,Unprovoked,usa,38,3 m [10'] bull shark,Sep,M,Y
+1008,1988.0,Unprovoked,usa,27,2.4 m to 3 m [8' to 10'] white shark,Aug,M,N
+1009,1988.0,Unprovoked,south africa,36,White shark,Jun,M,N
+1010,1988.0,Unprovoked,usa,37,Sand shark?,Jun,M,N
+1011,1988.0,Unprovoked,usa,25,1.8 m to 2.4 m [6' to 8'] shark,Jun,M,N
+1012,1988.0,Unprovoked,south africa,17,1.5 m to 2 m [5' to 6.75'] shark,Mar,M,N
+1013,1988.0,Unprovoked,south africa,20,"1 m ""grey-colored"" shark",Feb,M,N
+1014,1988.0,Unprovoked,south africa,15,Zambezi shark (tooth fragments recovered),Feb,F,N
+1015,1988.0,Invalid,south africa,22,Shark involvement not confirmed,Jan,M,
+1016,1988.0,Provoked,south africa,33,1.5 m copper shark,Jan,M,N
+1017,1987.0,Unprovoked,usa,16,1.8 m [6'] blacktip shark,Dec,M,N
+1018,1987.0,Unprovoked,usa,20,2 m [6.75'] shark,Oct,M,N
+1019,1987.0,Invalid,south africa,14,Questionable incident,Oct,M,
+1020,1987.0,Unprovoked,south africa,21,White shark,Oct,M,N
+1021,1987.0,Unprovoked,south africa,24,3.5 m [11.5']  white shark,Sep,M,N
+1022,1987.0,Unprovoked,usa,12,1.2 m to 1.5 m [4' to 5'] shark,Aug,M,N
+1023,1987.0,Unprovoked,usa,40,5.7 m white shark,Aug,M,N
+1024,1987.0,Unprovoked,usa,27,3' to 4' shark,Jul,M,N
+1025,1987.0,Unprovoked,usa,32,4' shark,Jul,F,N
+1026,1987.0,Unprovoked,usa,16,4' shark,Jul,F,N
+1027,1987.0,Unprovoked,vanuatu,8,4.3 m shark,Apr,M,Y
+1028,1987.0,Unprovoked,south africa,30,>2.5 m [8.25'] white shark,Jan,M,N
+1029,1986.0,Unprovoked,south africa,21,3 m [10'] white shark,Dec,M,Y
+1030,1986.0,Unprovoked,usa,40,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,Dec,M,N
+1031,1986.0,Unprovoked,usa,27,5 m to 6 m [16.5' to 20'] white shark,Dec,M,N
+1032,1986.0,Unprovoked,usa,6,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",Oct,F,N
+1033,1986.0,Unprovoked,south africa,32,1.6 m shark,Oct,M,N
+1034,1986.0,Invalid,south africa,35,Invalid,Aug,M,
+1035,1986.0,Unprovoked,south africa,26,1.2 m [4'] dusky shark,Jul,M,N
+1036,1986.0,Unprovoked,south africa,26,>1 m shark,Mar,M,N
+1037,1986.0,Unprovoked,south africa,21,>2.4 m [8'] white shark,Feb,M,N
+1038,1986.0,Unprovoked,south africa,46,Raggedtooth shark,Feb,M,N
+1039,1986.0,Unprovoked,south africa,29,"Raggedtooth shark, 2 m [6.75'] ",Feb,M,N
+1040,1986.0,Unprovoked,australia,29,"Bronze whaler shark, 3.5 m ",Feb,M,N
+1041,1986.0,Unprovoked,usa,22,Blacktip shark,Jan,M,N
+1042,1986.0,Unprovoked,usa,16,1.5 m [5'] shark,,M,N
+1043,1985.0,Unprovoked,south africa,22,2.5 m [8.25'] white shark,Oct,M,N
+1044,1985.0,Unprovoked,usa,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,Oct,M,N
+1045,1985.0,Invalid,usa,17,Invalid,Sep,M,
+1046,1985.0,Invalid,usa,11,Shark involvement not confirmed,Aug,M,
+1047,1985.0,Invalid,usa,67,Shark involvement prior to death not confirmed,Aug,M,
+1048,1985.0,Unprovoked,usa,13,Possibly a small hammerhead shark,Jul,F,N
+1049,1985.0,Unprovoked,italy,13,"3 m to 3.6 m  [10' to 11'9""] white shark",Mid,M,N
+1050,1985.0,Unprovoked,australia,33,6 m [20'] white shark,Mar,F,Y
+1051,1985.0,Unprovoked,usa,29,6 m [20'] white shark,Feb,M,N
+1052,1985.0,Unprovoked,south africa,15,Raggedtooth shark,Jan,M,N
+1053,1985.0,Unprovoked,south africa,18,"3.5 m white shark, tooth fragments recovered",Jan,M,N
+1054,1985.0,Unprovoked,south africa,34,3.5 m [11.5'] white shark,Jan,M,N
+1055,1985.0,Provoked,south africa,20,1.5 m [5'] dusky shark,Jan,M,N
+1056,1984.0,Unprovoked,australia,16,"Tiger shark, 4 m ",Nov,M,Y
+1057,1984.0,Invalid,usa,22,Shark involvement prior to death was not confirmed,Oct,M,
+1058,1984.0,Unprovoked,usa,23,1.5 m [5'] shark,Oct,F,N
+1059,1984.0,Invalid,usa,77,Shark involvement not confirmed; officials considered barracua,Oct,F,
+1060,1984.0,Unprovoked,usa,15,1.2 m [4'] blacktip shark,Oct,M,N
+1061,1984.0,Unprovoked,usa,25,3 m to 5 m [10' to 16.5'] white shark,Sep,M,N
+1062,1984.0,Unprovoked,usa,16,Hammerhead shark?+O2356,Sep,M,N
+1063,1984.0,Unprovoked,usa,28,4.5 m to 5 m white shark,Sep,M,Y
+1064,1984.0,Unprovoked,usa,18,1.2 m [4'] shark,Jul,F,N
+1065,1984.0,Invalid,south africa,21,Shark involvement prior to death was not confirmed,Jul,M,
+1066,1984.0,Unprovoked,south africa,27,2.4 m [8'] white shark,Jun,M,N
+1067,1984.0,Unprovoked,usa,13,1.2 m to 1.5 m [4' to 5'] hammerhead shark,Jun,F,N
+1068,1984.0,Provoked,south africa,33, 1.5 m [5'] dusky shark,Feb,M,N
+1069,1984.0,Unprovoked,south africa,14,"Raggedtooth shark, 1 m ",Jan,M,N
+1070,1983.0,Unprovoked,south africa,47,"Raggedtooth shark, >1 m ",Dec,M,N
+1071,1983.0,Unprovoked,south africa,29,5 m [16.5'] white shark,Aug,M,N
+1072,1983.0,Unprovoked,usa,14,Sand shark,Aug,F,N
+1073,1983.0,Unprovoked,usa,22,6' to 8' bull shark,Aug,F,N
+1074,1983.0,Sea Disaster,australia,21,"Tiger shark, 5 m [16.5']",Jul,F,Y
+1075,1983.0,Sea Disaster,australia,24,"Tiger shark, 5 m [16.5']",Jul,M,Y
+1076,1983.0,Sea Disaster,australia,28,"Tiger shark, 5 m [16.5']",Jul,M,N
+1077,1983.0,Unprovoked,usa,39,3.5' hammerhead shark,Jul,F,N
+1078,1983.0,Unprovoked,usa,21,6' shark,May,M,N
+1079,1983.0,Unprovoked,south africa,27,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)",Apr,M,N
+1080,1983.0,Unprovoked,south africa,17,1.8 m [6'] Zambezi shark,Mar,M,N
+1081,1983.0,Unprovoked,south africa,16,3 m [10'] shark,Feb,M,N
+1082,1983.0,Unprovoked,south africa,32,White shark,Jan,M,N
+1083,1982.0,Unprovoked,usa,26,1.5 m [5'] shark,Oct,M,N
+1084,1982.0,Unprovoked,south africa,16,"Believed to involve a 2.8 m [9'3""] white shark",Sep,M,N
+1085,1982.0,Unprovoked,usa,20,1.5 m [5'] shark,Sep,M,N
+1086,1982.0,Unprovoked,usa,36,White shark,Sep,M,N
+1087,1982.0,Unprovoked,usa,28,5 m to 6 m [16.5' to 20'] white shark,Sep,M,N
+1088,1982.0,Invalid,usa,17,Questionable incident; reported as shark attack but thought to involve a pinniped instead ,Aug,M,
+1089,1982.0,Invalid,south africa,20,Invalid,Jul,M,
+1090,1982.0,Unprovoked,south africa,38,"2.4 m [8'] white shark, species identity confirmed by tooth fragment",Jul,M,N
+1091,1982.0,Unprovoked,usa,26,4.5 m to 5.5 m [14.7' to 18'] white shark,Jul,M,N
+1092,1982.0,Unprovoked,usa,17,0.9 m to 1.2 m [3' to 4'] shark,Jul,M,N
+1093,1982.0,Unprovoked,south africa,27,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard",Jun,M,Y
+1094,1982.0,Unprovoked,usa,20,5' shark,Jun,M,N
+1095,1982.0,Unprovoked,south africa,20,Raggedtooth shark,Jan,M,N
+1096,1981.0,Unprovoked,usa,24,7 m [23'] white shark,Dec,M,Y
+1097,1981.0,Unprovoked,usa,19,1.8 m to 2.4 m [6' to 8'] shark,Oct,M,N
+1098,1981.0,Unprovoked,usa,26,Said to involve a tiger shark or a hammerhead shark,Sep,M,Y
+1099,1981.0,Unprovoked,bahamas,53,Mako shark (tooth fragments recovered),Aug,M,N
+1100,1981.0,Unprovoked,south africa,32,Possibly a  1.8 m [6'] Zambezi shark,Jul,M,N
+1101,1981.0,Unprovoked,south korea,27,6 m  white shark,May,F,Y
+1102,1981.0,Unprovoked,south africa,27,Raggedtooth shark,May,M,N
+1103,1981.0,Unprovoked,south africa,19,"Raggedtooth shark, 2.5 m [8.25'] ",May,M,N
+1104,1981.0,Unprovoked,south africa,24,"Tiger shark, 2.1 m [7']",May,M,N
+1105,1981.0,Unprovoked,usa,19,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",Mar,M,N
+1106,1981.0,Unprovoked,usa,24,C. maculpinnis or C. limbatus,Mar,M,N
+1107,1981.0,Unprovoked,south africa,30,Juvenile dusky or blacktip shark,Feb,M,N
+1108,1981.0,Unprovoked,usa,15,1.8 m to 2.4 m [6' to 8'] hammerhead shark,Feb,M,N
+1109,1981.0,Unprovoked,australia,27,"Tiger shark, 2.5 m ",,M,N
+1110,1980.0,Unprovoked,south africa,25,3.5 m [11.5'] shark,,M,N
+1111,1980.0,Unprovoked,reunion,22,1.8 m [6'] white shark,Nov,M,N
+1112,1980.0,Unprovoked,usa,29,4 m to 5 m [13' to 16.5'] white shark,Oct,M,N
+1113,1980.0,Unprovoked,usa,19,4 m to 5 m [13' to 16.5'] white shark,Oct,M,N
+1114,1980.0,Unprovoked,usa,22,4' to 8' shark,Jul,F,N
+1115,1980.0,Unprovoked,south africa,22,1.8 m [6'] shark,May,M,N
+1116,1980.0,Unprovoked,mexico,13,Tiger shark,Apr,F,N
+1117,1980.0,Unprovoked,south africa,24,"2.8 m [9'3""] white shark",Jan,M,N
+1118,1980.0,Provoked,south africa,29,"2 m [6'9""] Zambesi shark",Jan,M,N
+1119,1980.0,Unprovoked,south africa,25,"Raggedtooth shark, 2 m [6'9""] ",Jan,M,N
+1120,1980.0,Invalid,south africa,20,Invalid,,M,
+1121,1979.0,Unprovoked,usa,20,"White shark, 4 m [13'] ",Nov,M,N
+1122,1979.0,Provoked,south africa,25,"White shark, 2.5 m [8.25']  ",May,M,N
+1123,1979.0,Unprovoked,usa,27,Blacktip or spinner shark,Mar,M,N
+1124,1979.0,Unprovoked,south africa,19,1.5 m to 2 m [5' to 6.75'] shark,Feb,M,N
+1125,1978.0,Unprovoked,south africa,23,"White shark, 2.3 m [7.5'], tooth fragment recovered",Dec,M,Y
+1126,1978.0,Unprovoked,south africa,27,"White shark, 3.7 m [12'] ",Sep,M,N
+1127,1978.0,Unprovoked,south africa,17,Thought to involve a blacktip shark,Jan,M,N
+1128,1977.0,Unprovoked,south africa,18,"Tiger shark, 3 m [10']",Dec,M,N
+1129,1977.0,Unprovoked,south africa,25,"White shark, 5 m [16.5'] ",Oct,M,N
+1130,1977.0,Unprovoked,australia,17,White shark,Aug,M,N
+1131,1977.0,Unprovoked,usa,20,"White shark, 5.5 m to 6 m [18' to 20']  ",Aug,M,N
+1132,1977.0,Provoked,usa,27,"Bull shark, 8",Jun,M,N
+1133,1976.0,Unprovoked,usa,29,"White shark, 5.5 m [18'] ",Dec,M,N
+1134,1976.0,Unprovoked,south africa,19,"White shark, 3 m [10'] k",Nov,M,N
+1135,1976.0,Unprovoked,usa,19,2.1 m [7'] lemon shark or bull shark,Nov,M,N
+1136,1976.0,Unprovoked,usa,25,"White shark, 3 m to 4 m [10' to 13'] ",Oct,M,N
+1137,1976.0,Unprovoked,south africa,20,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment",Oct,M,N
+1138,1976.0,Unprovoked,usa,15,"Tiger shark, 6' ",Sep,M,N
+1139,1976.0,Unprovoked,usa,19,"White shark, 4.5 m ",Aug,M,N
+1140,1976.0,Unprovoked,usa,17,12' to 14' shark,Jun,M,N
+1141,1975.0,Unprovoked,usa,27,White shark,Dec,M,N
+1142,1975.0,Unprovoked,south africa,33,Juvenile dusky shark,Nov,M,N
+1143,1975.0,Unprovoked,south africa,19,"White shark, 2.4 m [8']",Aug,M,N
+1144,1975.0,Unprovoked,usa,20,1.5 m [5'] shark,Aug,M,N
+1145,1975.0,Unprovoked,usa,44,White shark,Aug,M,N
+1146,1975.0,Unprovoked,australia,37,White shark,Jul,M,Y
+1147,1975.0,Unprovoked,usa,23,"White shark, 5.8 m [19'] ",Jul,M,N
+1148,1975.0,Unprovoked,usa,34,"White shark, 5m to 6m",Jul,M,N
+1149,1975.0,Unprovoked,usa,14,1.2 m [4'] shark,Jul,F,N
+1150,1975.0,Unprovoked,usa,18,4' shark,Jun,M,N
+1151,1975.0,Unprovoked,south africa,16,1.5 m [5'] shark,Feb,M,N
+1152,1975.0,Unprovoked,australia,12,"White shark, 3 m [10'] ",Feb,M,Y
+1153,1974.0,Unprovoked,usa,17,"White shark, 5.5 m to 6 m [18' to 20'] ",Sep,M,N
+1154,1974.0,Unprovoked,usa,29,"White shark, 4 m to 5 m ",Sep,M,N
+1155,1974.0,Unprovoked,israel,20,"Shortfin mako shark, 2.3 m [7.5'] ",Sep,F,N
+1156,1974.0,Unprovoked,usa,41,"White shark, 5 m to 6 m [16.5 to 20'] ",Sep,M,N
+1157,1974.0,Unprovoked,usa,48,"White shark, 5 m to 6 m [16.5 to 20'] ",Sep,M,N
+1158,1974.0,Unprovoked,usa,24,"White shark, 4.5 m ",Sep,M,N
+1159,1974.0,Unprovoked,usa,45,"White shark, 5 m [16.5']",May,M,N
+1160,1974.0,Unprovoked,south africa,22,"Raggedtooth shark, 1.5 m [5'] ",Apr,M,N
+1161,1974.0,Unprovoked,south africa,17,Juvenile dusky shark,Apr,M,N
+1162,1974.0,Unprovoked,south africa,21,1.8 m [6'] shark,Mar,M,N
+1163,1974.0,Unprovoked,south africa,33,2 m to 2.5 m [6.75'  to 8.25'] shark,Jan,M,N
+1164,1973.0,Unprovoked,bahamas,11,7' to 8' bull shark,Sep,M,N
+1165,1973.0,Unprovoked,mexico,37,White shark,Sep,M,Y
+1166,1973.0,Unprovoked,south africa,26,"2 m shark, possibly a dusky or blacktip shark",Mar,M,N
+1167,1972.0,Unprovoked,mozambique,25,2 m to 3 m shark,Dec,M,N
+1168,1972.0,Unprovoked,usa,22,4.5' shark,Jun,M,N
+1169,1972.0,Unprovoked,usa,32,"White shark, 4.4 m to 5 m [14.5' to 16.5'] ",May,M,N
+1170,1972.0,Unprovoked,australia,18,7' shark,Feb,M,N
+1171,1972.0,Unprovoked,south africa,30,Zambesi shark,Jan,F,N
+1172,1972.0,Unprovoked,mozambique,24,"White shark, 2.5 m [8.25'] ",Jan,M,N
+1173,1971.0,Unprovoked,south africa,16,"White shark, 3 m [10']rk",Dec,F,N
+1174,1971.0,Unprovoked,usa,18,5' to 6' shark,Oct,M,N
+1175,1971.0,Unprovoked,south africa,25,1.5 m to 2 m shark,Oct,M,N
+1176,1971.0,Unprovoked,usa,30,"White shark, 5 m to 6 m [16.5' to 20']  ",Oct,M,N
+1177,1971.0,Unprovoked,croatia,34,White shark,Sep,M,Y
+1178,1971.0,Provoked,australia,26,"Grey nurse shark, 11'",Aug,M,N
+1179,1971.0,Unprovoked,south africa,21,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board ",Jun,M,N
+1180,1971.0,Unprovoked,south africa,>50,White shark according to tooth pattern and witnesses,Apr,M,Y
+1181,1971.0,Unprovoked,new zealand,16,"White shark, 4.6 m [15'] ",Mar,M,N
+1182,1970.0,Unprovoked,micronesia,43,1.8 to 2 m C. albimarginatus,Sep,M,N
+1183,1970.0,Provoked,south africa,25,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female ",Jun,M,N
+1184,1969.0,Unprovoked,usa,53,"White shark, 4.3 m 4.9 m [14' to 16'] ",Sep,M,N
+1185,1969.0,Unprovoked,usa,13,4' shark,Aug,M,N
+1186,1969.0,Provoked,usa,23,Nurse shark,May,M,N
+1187,1969.0,Unprovoked,usa,16,"White shark, identified by tooth fragments in surfboard",Mar,M,N
+1188,1969.0,Provoked,australia,49,7-gill shark,Reported,M,N
+1189,1968.0,Provoked,australia,27,"Grey nurse shark, 10' ",Dec,M,N
+1190,1968.0,Unprovoked,new zealand,17,White shark,Dec,M,N
+1191,1968.0,Unprovoked,new zealand,24,"White shark, 4.3 m [14'], (tooth fragment recovered)",Sep,M,Y
+1192,1968.0,Unprovoked,columbia,18,2 m shark,Aug,M,N
+1193,1968.0,Unprovoked,usa,25,"White shark, 4 m [13'] ",Jul,M,N
+1194,1968.0,Unprovoked,usa,33,4m [13'] shark,Jul,M,N
+1195,1968.0,Invalid,usa,63,Shark involvement not confirmed,Apr,M,
+1196,1968.0,Unprovoked,south africa,35,1.5 m to 1.8m [5' to 6'] shark,Mar,M,N
+1197,1968.0,Invalid,usa,28,Invalid,Mar,M,
+1198,1968.0,Unprovoked,australia,26,"Bronze whaler shark, 3 m [10'] ",Feb,M,N
+1199,1967.0,Unprovoked,south africa,22,1.5 m to 1.8 m [5' to 6'] shark,Dec,M,N
+1200,1967.0,Unprovoked,usa,19,small blacktip shark,Oct,M,N
+1201,1967.0,Provoked,usa,24,5' blue shark,Aug,M,N
+1202,1967.0,Unprovoked,australia,23,White shark,Aug,M,Y
+1203,1967.0,Invalid,australia,? & 19,Shark involvement prior to death was not confirmed,Aug,M,
+1204,1967.0,Unprovoked,usa,15,"Nurse shark, 106 cm, 28-lb, male ",Aug,M,N
+1205,1967.0,Unprovoked,bahamas,41,1.5 m to 1.8 m [5' to 6'] sandbar shark,Aug,M,N
+1206,1967.0,Provoked,usa,26,"Nurse shark, 1 m ",Jun,M,N
+1207,1967.0,Unprovoked,south africa,32,"White shark, 3 m [10'] ",Mar,M,N
+1208,1967.0,Provoked,australia,36,Grey nurse shark,Mar,M,N
+1209,1967.0,Unprovoked,new zealand,21,Thought to involve a white shark,Mar,M,Y
+1210,1966.0,Unprovoked,papua new guinea,13,3.7 m [12'] shark,Oct,F,Y
+1211,1966.0,Unprovoked,papua new guinea,8,3.7 m [12'] shark,Oct,F,Y
+1212,1966.0,Unprovoked,australia,32,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun ",Sep,M,N
+1213,1966.0,Unprovoked,australia,43,"Mako shark, 1.9 m [6.5'] ",Sep,M,N
+1214,1966.0,Unprovoked,new britain,13,A pack of 6 sharks,Aug,F,Y
+1215,1966.0,Unprovoked,new britain,9,A pack of 6 sharks,Aug,F,Y
+1216,1966.0,Invalid,usa,26,Invalid,Mid,M,
+1217,1966.0,Unprovoked,usa,8,Spinner or blacktip sharks,Aug,M,N
+1218,1966.0,Provoked,usa,34,4' shark,Jul,M,N
+1219,1966.0,Invalid,usa,46,Invalid,Jul,M,
+1220,1966.0,Provoked,usa,15,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",Jun,M,N
+1221,1966.0,Provoked,usa,18,1.2 m [4'] hammerhead shark,Jun,M,N
+1222,1966.0,Unprovoked,usa,18,a small shark,Jun,M,N
+1223,1966.0,Invalid,usa,24,Invalid,May,M,
+1224,1966.0,Unprovoked,australia,13,"White shark, 2.5 m [8.25'], an immature female, previously injured",Feb,M,N
+1225,1966.0,Provoked,south africa,33,Copper shark,Jan,M,N
+1226,1966.0,Unprovoked,usa,29,"White shark, 3 m [10'] ",Jan,M,N
+1227,1966.0,Unprovoked,south africa,16,1.5 m to 1.8 m [5' to 6'] Zambesi shark,Jan,M,N
+1228,1966.0,Unprovoked,south africa,15,"1.8 m to 2 m [6' to 6'9""] shark",Jan,M,N
+1229,1966.0,Unprovoked,usa,35,Hammerhead shark,Jan,M,N
+1230,1966.0,Invalid,usa,15,Shark involvement not confirmed,Summer,F,
+1231,1965.0,Unprovoked,australia,24,"Grey nurse shark, 2.4 m [8'] ",Nov,M,N
+1232,1965.0,Invalid,usa,19,Invalid,Apr,M,
+1233,1965.0,Unprovoked,usa,28,"White shark, 10' to 12' ",Apr,M,N
+1234,1965.0,Unprovoked,palau,8,"Tiger shark, tooth fragment recovered",Apr,M,N
+1235,1965.0,Unprovoked,usa,17,Blacktip or spinner shark,Apr,M,N
+1236,1965.0,Unprovoked,usa,16,Mako shark,Mar,M,N
+1237,1965.0,Unprovoked,south africa,25,"1.8 m [6'], 136-kg [300-lb] shark ",Feb,M,N
+1238,1965.0,Unprovoked,usa,18,1.2 m [4'] shark,Feb,M,N
+1239,1965.0,Unprovoked,south africa,22,"White shark, 3.7 m [12'] ",Jan,M,N
+1240,1964.0,Unprovoked,south africa,19,Raggedtooth shark ,Dec,M,N
+1241,1964.0,Unprovoked,papua new guinea,28,2.1 m [7'] shark,Dec,M,N
+1242,1964.0,Unprovoked,australia,25,"White shark, 2.4 m [8'] ",Nov,M,N
+1243,1964.0,Unprovoked,australia,19,"Grey nurse shark, 1.8 m [6']",Oct,M,N
+1244,1964.0,Unprovoked,taiwan,20,1.8 m [6'] shark,Sep,M,N
+1245,1964.0,Unprovoked,mexico,19,1.8 to 2.4 m [6' to 8'] shark,Aug,M,N
+1246,1964.0,Invalid,usa,18,Invalid,Aug,M,
+1247,1964.0,Unprovoked,usa,28,Hammerhead shark,Aug,M,N
+1248,1964.0,Invalid,usa,29,Shark involvement prior to death was not confirmed,Jun,F,
+1249,1964.0,Invalid,south africa,40,Shark involvement prior to death was not confirmed,Jun,M,
+1250,1964.0,Unprovoked,fiji,35,Tiger shark,May,M,Y
+1251,1964.0,Unprovoked,usa,38,1.7 m [5.5'] shark,Mar,M,N
+1252,1964.0,Unprovoked,new zealand,26,"White shark, 3 m [10'] ",Feb,M,N
+1253,1964.0,Unprovoked,south africa,25,"White shark, 1.5 m [5'] k",Feb,M,N
+1254,1964.0,Unprovoked,new zealand,19,"White shark, 3 m to 3.7 m [10' to 12'] ",Feb,M,Y
+1255,1964.0,Invalid,australia,23,Shark involvement prior to death was not confirmed,Feb,M,
+1256,1964.0,Unprovoked,usa,21,White shark (tooth fragment recovered),Jan,M,N
+1257,1963.0,Unprovoked,south africa,20,"Zambesi shark, 1.8 m [6'] ",Dec,F,N
+1258,1963.0,Unprovoked,south africa,24,1.8 m [6']  shark,Dec,M,N
+1259,1963.0,Provoked,south africa,13,"Dusky shark, 1 m ",Dec,M,N
+1260,1963.0,Unprovoked,south africa,15,300- to 400-lb Zambesi shark,Dec,M,Y
+1261,1963.0,Unprovoked,australia,23,White shark,Dec,M,N
+1262,1963.0,Unprovoked,new zealand,20,Possibly a broadnose 7-gill shark,Nov,M,N
+1263,1963.0,Provoked,papua new guinea,18,Tiger shark,Nov,F,N
+1264,1963.0,Unprovoked,fiji,21,>1.2 m [4'] tiger shark,Nov,F,N
+1265,1963.0,Unprovoked,palau,35,Dooley believed his Injury was caused by stingray (Dasyatidae family),Nov,M,N
+1266,1963.0,Unprovoked,usa,28,500-lb shark,Oct,M,N
+1267,1963.0,Unprovoked,solomon islands,30,5.5 m [18'] shark,Sep,M,Y
+1268,1963.0,Provoked,australia,18,1.5 m [5'] shark,Sep,M,N
+1269,1963.0,Provoked,usa,16,"Nurse shark, 1.2 m [4'] ",Sep,M,N
+1270,1963.0,Unprovoked,federated states of micronesia,26,Tiger shark,Jul,M,N
+1271,1963.0,Unprovoked,greece,42,"White shark, 3 m ",Jun,F,Y
+1272,1963.0,Provoked,papua new guinea,30,1.8 m [6'] shark,Jun,M,N
+1273,1963.0,Unprovoked,usa,25,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",Apr,M,Y
+1274,1963.0,Unprovoked,usa,15,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,Apr,M,N
+1275,1963.0,Unprovoked,australia,18,"Bronze whaler shark, 3 m [10'] ",Feb,M,N
+1276,1963.0,Unprovoked,fiji,28,"White shark, 2.1 m [7'] ",Feb,M,N
+1277,1963.0,Unprovoked,australia,32,"Tooth fragments of whaler shark were recovered, a bull shark, according to Edwards",Jan,F,Y
+1278,1963.0,Invalid,australia,25,Shark involvement prior to death was not confirmed,Jan,M,
+1279,1963.0,Unprovoked,south africa,27,1 m shark,Jan,M,N
+1280,1963.0,Unprovoked,south africa,24,"Zambesi shark, 2 m [6'9""] ",Jan,M,N
+1281,1962.0,Unprovoked,australia,16,"White shark, 4.3 m [14'] (or bronze whaler)",Dec,M,Y
+1282,1962.0,Unprovoked,usa,24,"White shark, 4.3 m to 4.9m [14' to 16']",Nov,M,N
+1283,1962.0,Unprovoked,mexico,32,2.7 m [9'] shark,Oct,M,Y
+1284,1962.0,Unprovoked,british west indies,24," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] ",Sep,M,N
+1285,1962.0,Unprovoked,italy,28,White shark,Sep,M,Y
+1286,1962.0,Provoked,papua new guinea,49,"""A long thin brown-colored shark""",Aug,M,N
+1287,1962.0,Provoked,usa,39,"Horn shar,k Heterodontus francisci, 1.2 m [4'] ",Aug,M,N
+1288,1962.0,Unprovoked,usa,40,Unknown,Aug,M,Y
+1289,1962.0,Unprovoked,usa,24,1.8 m [6'] shark,Aug,M,N
+1290,1962.0,Provoked,usa,19,Blue shark,Jul,M,N
+1291,1962.0,Unprovoked,usa,11,1.8 m [6'] shark,Jun,M,N
+1292,1962.0,Provoked,usa,55," Sevengill  shark, 1.2 m [4'] ",Jun,M,N
+1293,1962.0,Unprovoked,south africa,13,"Zambesi shark, 1.2 m [4'] ",Apr,M,N
+1294,1962.0,Unprovoked,papua new guinea,10,Possibly a bronze whaler shark,Mar,M,Y
+1295,1962.0,Unprovoked,south africa,13,"White shark, 3 m ",Feb,M,Y
+1296,1962.0,Unprovoked,australia,35,60 cm  shark ,Feb,M,N
+1297,1962.0,Unprovoked,new zealand,18,1.5 m [5'] shark,Jan,M,N
+1298,1962.0,Invalid,south africa,40,Shark involvement prior to death was not confirmed,Jan,M,
+1299,1962.0,Unprovoked,usa,29,"White shark, 4 m [13'] ",Jan,M,N
+1300,1962.0,Unprovoked,australia,19,"Bronze whaler shark, 2.1 m [7'] shark",Jan,M,N
+1301,1962.0,Unprovoked,papua new guinea,24,White shark,Jan,M,N
+1302,1962.0,Unprovoked,new zealand,54,"36""  shark",Jan,F,N
+1303,1962.0,Unprovoked,marshall islands,57,1.8 m [6'] shark,Jan,M,N
+1304,1961.0,Unprovoked,australia,18,3 m [10'] shark,Dec,F,Y
+1305,1961.0,Unprovoked,australia,24,3 m [10'] shark,Dec,M,N
+1306,1961.0,Unprovoked,south africa,18,Zambesi shark,Dec,M,N
+1307,1961.0,Provoked,australia,23,"Grey nurse shark, 2.4 m [8'] ",Dec,M,N
+1308,1961.0,Unprovoked,australia,22,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut,Dec,M,Y
+1309,1961.0,Unprovoked,australia,17,1.8 m [6'] shark,Dec,M,N
+1310,1961.0,Unprovoked,croatia,19,White shark,Sep,M,Y
+1311,1961.0,Unprovoked,usa,16,"White shark, 4 m [13'] ",Aug,M,N
+1312,1961.0,Unprovoked,usa,19,White shark,Aug,M,N
+1313,1961.0,Unprovoked,usa,38,2.4 m [8'] shark,Aug,M,N
+1314,1961.0,Provoked,usa,57,"43"" shark",Jul,M,N
+1315,1961.0,Unprovoked,italy,21,"White shark, 4.5 m ",Jul,M,N
+1316,1961.0,Unprovoked,usa,20,White shark,May,M,N
+1317,1961.0,Unprovoked,usa,52,"Hammerhead shark, 500-llb ",May,M,N
+1318,1961.0,Invalid,usa,10,Shark involvement not confirmed,Apr,M,
+1319,1961.0,Unprovoked,mozambique,37,Zambesi shark,Apr,M,N
+1320,1961.0,Unprovoked,australia,40," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']",Apr,M,N
+1321,1961.0,Unprovoked,mozambique,38,Zambesi shark,Apr,M,Y
+1322,1961.0,Unprovoked,australia,24,3 m [10'] shark,Mar,M,N
+1323,1961.0,Unprovoked,australia,21,"White shark, 3.7 m [12'] ",Mar,M,N
+1324,1961.0,Unprovoked,north pacific ocean,33,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart",Mar,M,N
+1325,1961.0,Unprovoked,south africa,27,1.5 m [5'] shark,Feb,M,N
+1326,1961.0,Unprovoked,south africa,14,"2.1 m [7'], 90-kg shark",Feb,M,Y
+1327,1961.0,Unprovoked,south africa,15,White shark,Jan,M,N
+1328,1961.0,Provoked,australia,27,"Wobbegong shark, 1.5 m [5'] ",Jan,M,N
+1329,1961.0,Unprovoked,south africa,13,"White shark, based on bite pattern",Jan,M,N
+1330,1960.0,Unprovoked,south africa,25,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",Dec,M,Y
+1331,1960.0,Unprovoked,australia,33,"Grey nurse shark, 1m ",Dec,M,
+1332,1960.0,Unprovoked,australia,41,3' shark,Nov,M,
+1333,1960.0,Provoked,usa,15,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer",Aug,M,N
+1334,1960.0,Provoked,usa,41,"""sand shark""",Jul,M,N
+1335,1960.0,Unprovoked,usa,39,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth",Jun,M,N
+1336,1960.0,Unprovoked,bermuda,25,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered",May,M,N
+1337,1960.0,Unprovoked,usa,16,"White shark, 4 m to 5 m [13' to 16.5'] ",May,F,N
+1338,1960.0,Unprovoked,south africa,16,"White shark, 2.1 m [7']  based on tooth pattern",Apr,M,N
+1339,1960.0,Unprovoked,usa,48,"White shark, 4.9 m [16'] ",Apr,M,N
+1340,1960.0,Invalid,bermuda,"21, 34,24 & 35",Questionable incident,Apr,M,
+1341,1960.0,Unprovoked,australia,17,"White shark, 3.7 m [12'] ",Apr,M,N
+1342,1960.0,Unprovoked,usa,42,"1.2 m [4'], possibly  larger shark",Mar,M,N
+1343,1960.0,Unprovoked,australia,30 & 32,Two 2.1 m [7'] sharks,Feb,M,N
+1344,1960.0,Invalid,usa,36,"According to Benjamin, the injury was inflicted by a barracuda, not a shark",Feb,M,
+1345,1960.0,Unprovoked,australia,13,Bull shark,Jan,M,Y
+1346,1959.0,Unprovoked,australia,19,3.5 m [11.5'] shark,Nov,M,N
+1347,1959.0,Unprovoked,australia,17,"""a small shark""",Nov,M,N
+1348,1959.0,Unprovoked,australia,19,3 m to 4.3 m [10' to 14'] shark,Nov,M,N
+1349,1959.0,Unprovoked,usa,21,"Blue shark, 1.5 m [5'] ",Nov,M,N
+1350,1959.0,Unprovoked,usa,30,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks",Oct,M,N
+1351,1959.0,Unprovoked,fiji,36,"Tiger shark, 1.8 m [6']",Oct,M,N
+1352,1959.0,Sea Disaster,usa,30,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved",Sep,M,N
+1353,1959.0,Invalid,philippines,10,Shark involvement prior to death was not confirmed,Aug,M,
+1354,1959.0,Unprovoked,japan,13 or 18,"Blue shark, 3 m [10']",Aug,M,Y
+1355,1959.0,Unprovoked,usa,25,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description",Jul,M,N
+1356,1959.0,Unprovoked,usa,33,"Reported to involve a White shark, 6 m to 7m [20' to 23'] ",Jun,M,Y
+1357,1959.0,Unprovoked,usa,18,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks",May,M,Y
+1358,1959.0,Unprovoked,usa,19,"Tiger shark, 3.7 m [12']",May,M,N
+1359,1959.0,Unprovoked,south africa,14,1.8 to 2.1 m [6' to 7'] shark,Feb,M,N
+1360,1959.0,Unprovoked,australia,20,"Grey nurse shark, 1.8 m [6']",Jan,M,N
+1361,1959.0,Unprovoked,australia,22,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,Jan,M,Y
+1362,1959.0,Unprovoked,australia,17,1.8 m [6'] shark,Jan,M,N
+1363,1959.0,Unprovoked,south africa,18,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness",Jan,M,N
+1364,1958.0,Unprovoked,usa,15,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",Dec,M,Y
+1365,1958.0,Unprovoked,american samoa,22,Tiger shark,Dec,M,Y
+1366,1958.0,Unprovoked,australia,21,12' shark,Nov,M,Y
+1367,1958.0,Unprovoked,bahamas,42,200-lb shark,Sep,M,N
+1368,1958.0,Unprovoked,usa,12,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",Jul,M,N
+1369,1958.0,Unprovoked,usa,8,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",Jul,M,N
+1370,1958.0,Sea Disaster,pacific ocean,31,Sharks averaged 1.8 m [6'] in length,Jul,M,N
+1371,1958.0,Provoked,usa,20,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark",Jul,M,N
+1372,1958.0,Unprovoked,bahamas,36,"Tiger shark, <2 m TL",Jul,M,N
+1373,1958.0,Provoked,usa,59,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions",Jun,M,N
+1374,1958.0,Unprovoked,usa,17,Tiger shark?,Jun,M,N
+1375,1958.0,Unprovoked,taiwan,29,"Mako shark, 100-kg [221-lb] ",Apr,M,N
+1376,1958.0,Unprovoked,south africa,28,3 m [10'] shark,Apr,F,Y
+1377,1958.0,Unprovoked,south africa,29,3 m [10'] shark,Apr,M,Y
+1378,1958.0,Unprovoked,australia,14,6' shark,Jan,M,N
+1379,1957.0,Unprovoked,south africa,14,1.8 m [6'] shark,Dec,F,N
+1380,1957.0,Unprovoked,south africa,23,>3 m [10'] shark,Dec,M,Y
+1381,1957.0,Unprovoked,usa,57,White shark,Jul,M,Y
+1382,1957.0,Unprovoked,australia,28,4.6 m [15'] shark,May,M,N
+1383,1957.0,Unprovoked,usa,25,White shark,Apr,M,Y
+1384,1957.0,Provoked,usa,17,4 m [13'] shark,Apr,M,N
+1385,1957.0,Unprovoked,australia,22,Shark seen feeding on turtle scraps thrown overboard prior to incident.,Apr,M,N
+1386,1956.0,Unprovoked,papua new guinea,19,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut,Dec,M,Y
+1387,1956.0,Unprovoked,senegal,19,Lemon shark,Oct,M,N
+1388,1956.0,Unprovoked,usa,10,"White shark, 2.7 m [9'] ",Aug,M,N
+1389,1956.0,Unprovoked,australia,26,3.7 m [12'] shark & may have been another shark nearby,Mar,M,Y
+1390,1956.0,Unprovoked,australia,15,1.8 m [6'] shark,Feb,M,Y
+1391,1955.0,Unprovoked,papua new guinea,8,Wobbegong shark,Nov,M,N
+1392,1955.0,Unprovoked,american samoa,28,Blue shark,Aug,M,Y
+1393,1955.0,Unprovoked,usa,19,"White shark, 5 m to 6 m [16.5' to 20] ",Feb,M,N
+1394,1955.0,Unprovoked,australia,25,3.6 m  white shark  (or bronze whaler),Feb,M,Y
+1395,1955.0,Unprovoked,australia,13,"Bronze whaler shark,3.7 m [12'] ",Jan,M,Y
+1396,1954.0,Unprovoked,australia,30,2.4 m [8']  shark,Jun,M,N
+1397,1954.0,Unprovoked,argentina,18,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett,Jan,M,N
+1398,1954.0,Unprovoked,papua new guinea,26,14' shark,Jan,M,N
+1399,1953.0,Invalid,mexico,19,Invalid,Aug,M,
+1400,1953.0,Unprovoked,usa,15,3 m [10'] shark seen in vicinity,Jul,M,Y
+1401,1953.0,Unprovoked,australia,25,Wobbegong shark,Feb,M,N
+1402,1952.0,Unprovoked,australia,25,2.4 m [8'] shark,Dec,M,N
+1403,1952.0,Unprovoked,usa,17,"White shark,4.6 m [15'] ",Dec,M,Y
+1404,1951.0,Unprovoked,australia,21,2.4 m [8']  shark,Dec,M,Y
+1405,1951.0,Unprovoked,south africa,23,"White shark, 1.8 m [6'] ",Nov,M,N
+1406,1951.0,Unprovoked,south africa,24,"White shark, 2.4 m [8'] ",Nov,M,N
+1407,1951.0,Provoked,australia,23,"Wobbegong shark, 4'",Mar,M,N
+1408,1951.0,Unprovoked,south africa,31,136-kg [300-lb] shark,Feb,M,N
+1409,1950.0,Unprovoked,australia,21,"White shark, 3m, seen in area and hooked 3 days later",Nov,M,N
+1410,1950.0,Unprovoked,usa,31,White shark,Oct,M,N
+1411,1950.0,Unprovoked,australia,25,4' shark,Oct,M,N
+1412,1950.0,Provoked,el salvador,27,"1,100-lb shark",Aug,M,N
+1413,1950.0,Unprovoked,south africa,14,"White shark, 3.7 m [12']  according to witnesses",Feb,M,Y
+1414,1950.0,Unprovoked,indonesia,7 or 8,"Tiger shark, 3.7 m to 4.3 m  [12' to 14']",Summer,M,Y
+1415,1949.0,Unprovoked,australia,36,6' shark,Nov,M,N
+1416,1949.0,Unprovoked,australia,13,"3.3 m [10'9""] shark",Apr,M,Y
+1417,1949.0,Unprovoked,australia,20,"White shark, 3.6 m [11'9""] ",Jan,M,Y
+1418,1949.0,Invalid,australia,32,Invalid,Jan,M,
+1419,1948.0,Unprovoked,greece,17,Said to be 6.4 m [21'] shark,Sep,M,Y
+1420,1948.0,Provoked,usa,48,Nurse shark,Summer,M,N
+1421,1947.0,Unprovoked,australia,9,Grey nurse shark,Dec,M,N
+1422,1947.0,Unprovoked,usa,20,Possibly C. leucas,Aug,M,Y
+1423,1947.0,Unprovoked,south africa,21,"1.5 m, 45-kg shark",Apr,M,N
+1424,1947.0,Unprovoked,south africa,22,"Blacktip shark, 2 m [6.75'] ",Mar,M,N
+1425,1947.0,Unprovoked,south africa,18,>1.6 m shark,Jan,M,N
+1426,1946.0,Unprovoked,australia,30,4.3 m [14'] shark,Aug,M,Y
+1427,1946.0,Unprovoked,australia,18,"White shark, 4.2 m [13'9""] ",Feb,M,N
+1428,1946.0,Unprovoked,south africa,18,1.5 m [5'] shark,Jan,M,N
+1429,1945.0,Unprovoked,south africa,37,Thought to involve a Zambesi shark,Mar,M,N
+1430,1945.0,Unprovoked,iraq,15,Bull shark,,M,N
+1431,1944.0,Unprovoked,south africa,17,"White shark, according to witnesses",Jul,M,Y
+1432,1943.0,Unprovoked,panama,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",Sep,M,Y
+1433,1943.0,Invalid,mexico,68,Invalid,Jul,M,
+1434,1942.0,Unprovoked,australia,15,Bull shark,Dec,F,Y
+1435,1942.0,Unprovoked,south africa,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",Nov,M,Y
+1436,1942.0,Unprovoked,australia,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",Sep,M,N
+1437,1942.0,Unprovoked,australia,28,"Bull shark, 4 m [13'] ",Jan,F,Y
+1438,1942.0,Unprovoked,bahamas,48,1.2 m to 1.5 m [4' to 5'] shark,,M,N
+1439,1941.0,Provoked,usa,43,2.1 m [7'] shark,Jun,M,N
+1440,1941.0,Provoked,usa,53,Mako shark (aka bonito shark) 1.2 m [4'] ,Mar,M,N
+1441,1940.0,Unprovoked,south africa,25,"White shark, species identity confirmed by tooth pattern",Mar,M,Y
+1442,1940.0,Unprovoked,south africa,17,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern",Feb,M,Y
+1443,1940.0,Unprovoked,australia,13,3 m [10'] shark,Jan,M,Y
+1444,1940.0,Unprovoked,south africa,18,2.4 m [8'] shark,Jan,M,Y
+1445,1939.0,Unprovoked,australia,20,2.6 m [8.5'] shark landed 2 hours later,Dec,M,Y
+1446,1939.0,Provoked,bahamas,38,"Nurse shark, 2.1 m [7']",Jul,M,N
+1447,1938.0,Provoked,australia,18,"Tiger shark, 6'",Oct,M,N
+1448,1938.0,Unprovoked,iraq,9 or 10,Bull shark,May,M,N
+1449,1938.0,Invalid,australia,24,Questionable incident,Jan,M,
+1450,1937.0,Unprovoked,australia,25,Tiger shark,Oct,M,Y
+1451,1937.0,Unprovoked,australia,18,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains ",Oct,M,Y
+1452,1937.0,Unprovoked,australia,38,"Tiger shark, 9' to 10' ",Aug,M,N
+1453,1937.0,Unprovoked,australia,33,2 days later a 600-lb shark was caught 100 yards from the site,May,M,Y
+1454,1937.0,Unprovoked,australia,32,White shark,Feb,M,Y
+1455,1936.0,Unprovoked,usa,16,White shark (identified by Dr. Hugh Smith) ,Jul,M,Y
+1456,1936.0,Unprovoked,australia,16,"Tiger shark, 4.6 m [15'] ",Apr,M,N
+1457,1936.0,Unprovoked,australia,14,White shark,Feb,M,Y
+1458,1936.0,Unprovoked,australia,13,White shark,Jan,M,Y
+1459,1935.0,Unprovoked,australia,38,3.7 m [12'] shark,Aug,M,Y
+1460,1935.0,Unprovoked,australia,27,"White shark, 4 m [13'] ",Mar,M,Y
+1461,1935.0,Unprovoked,australia,22,"White shark, 3.5 m to 4 m [11.5' to 13'] ",Mar,M,Y
+1462,1934.0,Unprovoked,australia,13,"Tiger shark, 1.5 m [5'] ",Dec,F,N
+1463,1934.0,Unprovoked,australia,15,4.3 m [14'] shark seen in vicinity,Apr,M,Y
+1464,1934.0,Unprovoked,australia,17,4 m [13'] shark seen in vicinity,Mar,M,Y
+1465,1934.0,Unprovoked,australia,22,4.3 m [14'] shark seen in area previous week,Jan,M,N
+1466,1932.0,Unprovoked,australia,24,Thought to involve a mako or grey nurse shark,Oct,M,N
+1467,1932.0,Unprovoked,south africa,23,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] ",,M,N
+1468,1931.0,Invalid,australia,39,Shark involvement prior to death unconfirmed,Feb,M,
+1469,1931.0,Unprovoked,australia,18,1.5 m [5'] shark,Jan,M,N
+1470,1930.0,Unprovoked,australia,18,White shark 4.9 m [16'] ,Feb,M,Y
+1471,1930.0,Unprovoked,south africa,23,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern",Jan,M,N
+1472,1929.0,Provoked,australia,19,"Grey nurse shark, 4' ",Apr,M,N
+1473,1929.0,Unprovoked,australia,39,Galapagos shark,Feb,M,Y
+1474,1929.0,Unprovoked,australia,14,12' shark,Jan,M,Y
+1475,1928.0,Unprovoked,panama,17,Morenos leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph,Nov,M,Y
+1476,1928.0,Unprovoked,australia,15,4' shark,Apr,M,N
+1477,1928.0,Unprovoked,south africa,18,1.2 m [4'] shark,Jan,M,N
+1478,1927.0,Unprovoked,south africa,17,"White shark, 4.4 m [14.5'] . ",Dec,M,Y
+1479,1927.0,Unprovoked,australia,17,Grey nurse shark?,Mar,M,N
+1480,1927.0,Unprovoked,australia,15,3.7 m [12'] shark,Jan,M,Y
+1481,1926.0,Unprovoked,australia,17,"Grey nurse shark, 4'",Oct,M,N
+1482,1926.0,Unprovoked,italy,20,Said to involve 6 to 7 m [20' to 23'] white shark,Jul,M,Y
+1483,1926.0,Unprovoked,usa,15,1.5 m [5'] white shark or sevengill shark,Jul,M,N
+1484,1925.0,Unprovoked,australia,55,"Tiger shark, 4 m [13'] female",Nov,M,Y
+1485,1925.0,Unprovoked,australia,16,Said to be a small shark,Mar,M,N
+1486,1924.0,Unprovoked,australia,16,3 m [10'] shark,Jan,M,Y
+1487,1922.0,Unprovoked,australia,19,"2.7 m [9'] ""blue"" shark",Dec,M,Y
+1488,1922.0,Unprovoked,jamaica,19,6' shark,May,M,Y
+1489,1922.0,Unprovoked,south africa,18,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark ",May,M,N
+1490,1922.0,Unprovoked,australia,21,"White shark, 2.4 m [8'] ",Mar,M,Y
+1491,1922.0,Unprovoked,australia,18,White shark,Feb,M,Y
+1492,1919.0,Unprovoked,australia,13,12' shark,Jan,M,Y
+1493,1916.0,Unprovoked,usa,24,Thought to involve a 2.6 m [8.5'] white shark,Jul,M,Y
+1494,1912.0,Unprovoked,australia,21,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",Jan,M,Y
+1495,1906.0,Unprovoked,south africa,30,1.8 m to 2.7 m [6' to 9'] shark,Jan,M,Y
+1496,1905.0,Unprovoked,australia,40,5' shark,Mar,M,N
+1497,1901.0,Unprovoked,south africa,29,White shark,Jul,M,Y
+1498,1894.0,Unprovoked,australia,19,10' to 12' shark,Nov,M,N
+1499,1892.0,Provoked,australia,21,12' shark,Mar,M,N
+1500,1880.0,Unprovoked,australia,12,Bull shark,Nov,M,Y
+1501,1868.0,Unprovoked,india,35,Identified as C. gangeticus by Dr. J. Fayrer,May,M,Y
+1502,1800.0,Unprovoked,seychelles,,,,F,Y
+1503,1797.0,Unprovoked,nan,,,Reported,,Y
+1504,1792.0,Provoked,england,,,Sep,M,Y
+1505,1791.0,Unprovoked,australia,,,,F,Y
+1506,1788.0,Boat,australia,,,May,,N
+1507,1787.0,Unprovoked,nan,,,Jul,M,Y
+1508,1786.0,Unprovoked,barbados,,,Reported,M,Y
+1509,1785.0,Unprovoked,england,,Tiger shark?,Reported,M,Y
+1510,1784.0,Unprovoked,jamaica,,,Dec,M,Y
+1511,1783.0,Sea Disaster,martinique,,,Mar,M,Y
+1512,1780.0,Unprovoked,usa,,,Aug,M,Y
+1513,1779.0,Unprovoked,usa,young,,,M,Y
+1514,1776.0,Unprovoked,guinea,,,Reported,M,Y
+1515,1776.0,Boat,greenland,,White sharks,,,Y
+1516,1771.0,Unprovoked,usa,,,Reported,M,Y
+1517,1767.0,Invalid,france,,Description of shark does not ring true,,M,
+1518,1764.0,Unprovoked,spain,,,,M,Y
+1519,1758.0,Unprovoked,mediterranean sea,,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",,M,N
+1520,1753.0,Unprovoked,jamaica,,,Reported,M,Y
+1521,1751.0,Unprovoked,usa,,,Jul,M,Y
+1522,1749.0,Unprovoked,cuba,14,,,M,N
+1523,1755.0,Unprovoked,sweden,,,,M,
+1524,1748.0,Unprovoked,panama,,,,M,Y
+1525,1742.0,Unprovoked,nan,,,Dec,M,Y
+1526,1738.0,Unprovoked,italy,,,Reported,M,Y
+1527,1733.0,Invalid,iceland,,Shark involvement prior to death unconfirmed,,,
+1528,1723.0,Unprovoked,roatan,,,,M,
+1529,1721.0,Unprovoked,italy,,"White shark, 1600-lb female ",June,M,Y
+1530,1703.0,Unprovoked,barbados,19,,Mar,M,N
+1531,1700.0,Unprovoked,france,,,,M,Y
+1532,1700.0,Unprovoked,france,,White shark,,M,N
+1533,1700.0,Unprovoked,barbados,,,,M,Y
+1534,1642.0,Invalid,guinea,,Questionable,Late,M,
+1535,1638.0,Unprovoked,nan,,,Reported,M,
+1536,1637.0,Unprovoked,india,,,Reported,,
+1537,1617.0,Unprovoked,india,,,Reported,,
+1538,1642.0,Unprovoked,usa,,,,M,Y
+1539,1595.0,Unprovoked,india,,,,M,
+1540,1580.0,Unprovoked,between portugal & india,,,Letter,M,Y
+1541,1555.0,Unprovoked,nan,,,,M,
+1542,1554.0,Unprovoked,france,,Possibly white sharks,Ca,M,
+1543,1543.0,Unprovoked,venezuela,,,Ca,M,Y
+1544,500.0,Unprovoked,mexico,,,Circa,M,N
+1545,77.0,Unprovoked,nan,,,,M,Y
+1546,5.0,Unprovoked,australia,,,Ca,M,N
+1547,0.0,Unprovoked,nan,,,Ca,M,Y
+1548,0.0,Unprovoked,greece,,,Ca,M,Y
+1549,0.0,Sea Disaster,greece,,,,M,Y
+1550,0.0,Sea Disaster,italy,,,Ca,M,Y
+1551,0.0,Unprovoked,canada,,,Before,M,N
+1552,0.0,Unprovoked,kenya,,,,M,N
+1553,0.0,Unprovoked,kenya,,,Before,M,Y
+1554,0.0,Unprovoked,panama,20,,Before,M,Y
+1555,0.0,Unprovoked,uruguay,,,Before,,N
+1556,0.0,Unprovoked,uruguay,,,Before,M,Y
+1557,0.0,Unprovoked,usa,,,,M,N
+1558,0.0,Unprovoked,papua new guinea,,,Before,M,Y
+1559,0.0,Unprovoked,australia,15,,,F,N
+1560,0.0,Unprovoked,australia,,,Before,M,Y
+1561,0.0,Unprovoked,usa,," Galapagos shark, 6'",Before,M,N
+1562,0.0,Unprovoked,bermuda,,,Before,M,Y
+1563,0.0,Unprovoked,greece,,,Between,F,Y
+1564,0.0,Unprovoked,usa,,Basking shark,Before,M,Y
+1565,0.0,Provoked,india,,,Before,M,N
+1566,0.0,Unprovoked,lebanon,,,Before,M,N
+1567,0.0,Unprovoked,spain,,,Before,,N
+1568,0.0,Unprovoked,sudan,,,Before,F,N
+1569,0.0,Provoked,nan,,,Before,M,N
+1570,0.0,Unprovoked,usa,21,"Blacktip shark, 5'",Before,F,N
+1571,0.0,Unprovoked,usa,,,Beforer,M,N
+1572,0.0,Unprovoked,djibouti,,,Before,,Y
+1573,0.0,Unprovoked,libya,,,,M,Y
+1574,0.0,Unprovoked,australia,,,Before,M,N
+1575,0.0,Unprovoked,new zealand,,,Before,M,Y
+1576,0.0,Unprovoked,nan,,,Before,F,N
+1577,0.0,Unprovoked,vietnam,,,Before,M,N
+1578,0.0,Unprovoked,sri lanka,,,Before,M,N
+1579,0.0,Unprovoked,venezuela,,said to involve 2.5 m hammerhead sharks,No,M,Y
+1580,0.0,Unprovoked,usa,,,Before,M,N
+1581,0.0,Unprovoked,greece,,,Before,M,Y
+1582,0.0,Boat,mozambique,,Whale shark,Before,,N
+1583,0.0,Unprovoked,south africa,,,Before,M,Y
+1584,0.0,Unprovoked,australia,,Tiger shark,,M,N
+1585,0.0,Unprovoked,bahrein,,Tiger shark,No,M,Y
+1586,0.0,Unprovoked,bahamas,,1.8 m [6'] shark,,M,N
+1587,0.0,Unprovoked,usa,,,No,M,N
+1588,0.0,Unprovoked,reunion,,,No,M,N
+1589,0.0,Unprovoked,solomon islands,,,Before,M,N
+1590,0.0,Unprovoked,korea,,,No,F,Y
+1591,0.0,Unprovoked,french polynesia,,,No,M,N
+1592,0.0,Unprovoked,sudan,,Silvertip shark,Before,M,N
+1593,0.0,Unprovoked,vanuatu,,,No,F,Y
+1594,0.0,Provoked,vanuatu,,A large hammerhead shark,No,M,N
+1595,0.0,Unprovoked,iran,,Bull shark,No,M,N
+1596,0.0,Provoked,usa,19,"Nurse shark, 2.1 m [7'] ",No,M,N
+1597,0.0,Invalid,papua new guinea,,Questionable,No,M,Y
+1598,0.0,Unprovoked,red sea?,,,No,F,N
+1599,0.0,Unprovoked,south africa,,,No,M,Y
+1600,0.0,Unprovoked,usa,,"Shovelnose guitarfish, adult male ",No,M,N
+1601,0.0,Unprovoked,greece,,,No,F,Y
+1602,0.0,Invalid,usa,,Invalid,No,M,
+1603,0.0,Unprovoked,usa,,,No,M,Y
+1604,0.0,Unprovoked,mediterranean sea,,,No,M,Y
+1605,0.0,Unprovoked,australia,,0.9 m [3'] shark,No,M,N
+1606,0.0,Unprovoked,australia,,,No,M,N
+1607,0.0,Unprovoked,singapore,,,No,,N
+1608,0.0,Unprovoked,fiji,27,1.8 m [6'] shark,Before,M,N
+1609,0.0,Unprovoked,mozambique,36,"""A pack of sharks""",Before,M,N
+1610,0.0,Unprovoked,seychelles,,Tiger shark,Before,M,Y
+1611,0.0,Unprovoked,iraq,25,,,M,N
+1612,0.0,Unprovoked,iraq,6,Bull shark,,M,N
+1613,0.0,Unprovoked,iraq,16,Bull shark,,M,N
+1614,0.0,Unprovoked,bahamas,,"White shark, 7' to 8'",Before,M,N
+1615,0.0,Unprovoked,usa,,"White shark, 1,900-lb ",Before,F,N
+1616,0.0,Unprovoked,bermuda,,,Before,M,N
+1617,0.0,Unprovoked,fiji,,,Before,F,N
+1618,0.0,Unprovoked,madagascar,,,Before,M,Y
+1620,0.0,Provoked,bahamas,,"Nurse shark, 2.1 m [7']",Before,M,N
+1621,0.0,Unprovoked,indonesia,,,Before,M,Y
+1622,0.0,Unprovoked,india,,,Before,M,Y
+1623,0.0,Unprovoked,nicaragua,,"Bull shark caught, leg recovered & buried beside the man's body",Before,M,Y
+1624,0.0,Provoked,cuba,50,,Before,M,Y
+1625,0.0,Unprovoked,marshall islands,,,Before,M,N
+1626,0.0,Unprovoked,kiribati,,,Before,M,N
+1627,0.0,Unprovoked,north pacific ocean,,,Before,M,N
+1628,0.0,Unprovoked,kiribati,,,Before,M,Y
+1629,0.0,Sea Disaster,nan,,1.2 m [4'] shark,,,Y
+1630,0.0,Unprovoked,solomon islands,,,During,M,N
+1632,0.0,Unprovoked,iran,,,Said,M,Y
+1633,0.0,Unprovoked,iran,,,,M,Y
+1635,0.0,Unprovoked,iraq,13 or 14,Bull shark,,M,Y
+1636,0.0,Unprovoked,saudi arabia,,"""a black-tipped shark""",,M,Y
+1637,0.0,Unprovoked,saudi arabia,,6' shark,,M,N
+1638,0.0,Unprovoked,saudi arabia,,,,M,N
+1639,0.0,Sea Disaster,pacific ocean,,,,M,Y
+1640,0.0,Provoked,burma,,,Before,M,N
+1641,0.0,Sea Disaster,papua new guinea,,,World,M,N
+1643,0.0,Unprovoked,burma,,,Before,M,Y
+1644,0.0,Boat,italy,,White shark,,M,N
+1645,0.0,Unprovoked,greece,,,No,M,N
+1646,0.0,Unprovoked,belize,16,12' tiger shark,Early,M,Y
+1647,0.0,Unprovoked,australia,,,Before,M,
+1648,0.0,Unprovoked,reunion,,,Between,,Y
+1649,0.0,Unprovoked,south africa,,,No,F,N
+1652,0.0,Unprovoked,australia,,,,M,Y
+1657,0.0,Unprovoked,fiji,,,Before,,Y
+1661,0.0,Unprovoked,asia?,,,Before,M,N
+1662,0.0,Unprovoked,usa,,,Circa,F,N
+1663,0.0,Unprovoked,australia,,Blue pointer,Before,M,Y
+1665,0.0,Unprovoked,australia,,Blue pointers,Before,M,Y
+1666,0.0,Unprovoked,australia,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,Before,M,Y
+1669,0.0,Unprovoked,usa,,,,M,Y
+1670,0.0,Unprovoked,panama,,,,M,Y
+1671,0.0,Unprovoked,ceylon (sri lanka),15,,,M,Y
